@@ -1,0 +1,53 @@
+.App {
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #0B0F19;
+
+}
+.info-panel {
+  padding-bottom: 20px;
+}
+
+.info-panel h1 {
+  font-size: 18pt;
+}
+
+.info-panel p {
+  font-size: 10pt;
+}
+
+.info-panel a {
+  font-size: 10pt;
+}
+
+.info-panel select {
+  color: #ffffff; /* Change this to the color you want */
+  background-color: #1F2937; /* Very dark desaturated blue. */
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 1em; /* adjust as needed */
+}
+
+.config-panel {
+  background-color: #1F2937; /* Very dark desaturated blue. */
+  border-radius: 10px;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #4b5564; /* border grey */
+}
+
+.app-button {
+  padding: 5px 10px;
+  margin-left: 10px; /* Space between input and button */
+  border-radius: 5px; /* Rounded corners on button */
+  border: none; /* Remove default button border */
+  background-color: #2575fc; /* Blue background on button */
+  color: #fff; /* White text on button */
+}
+
+.app-button:disabled {
+  background-color: #cccccc;
+  color: #666666;
+}

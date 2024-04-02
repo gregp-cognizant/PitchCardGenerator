@@ -1,0 +1,114 @@
+.chat {
+    background-color: #0B0F19; /* Very dark (mostly black) blue */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.chat p a {
+    font-size: 12pt;
+}
+
+.chat-messages {
+    background-color: #1F2937; /* Very dark desaturated blue. */
+    list-style-type: none;
+    height: calc(100vh - 300px); /* Adjust 100px to the total height of other elements */
+    padding: 0;
+    padding-top: 20px;
+    overflow-y: scroll;
+    margin-bottom: 10px; /* Space between messages and input form */
+    margin-right: 10px;
+    border-radius: 20px;
+    border: 1px solid #4b5564; /* border grey */
+}
+
+.chat-message {
+    padding: 10px; /* keep */
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 1px solid #4b5564; /* border grey */
+}
+
+.chat-message-human {
+    background-color: #374151; /* Very dark grayish blue */
+    margin-left: 5%; /* Messages appear on the right */
+    color: #ffffff; /* White text */
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.chat-message-ai {
+    background: #101828; /* black russian */
+    color: #ffffff; /* White text */
+
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+/* This applies to the scrollbar track (the background) */
+.chat-messages-container::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: #F5F5F5;
+}
+
+/* This applies to the scrollbar handle (the moving part) */
+.chat-messages-container::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #888;
+    border: 3px solid #F5F5F5;
+}
+
+/* This applies to the scrollbar handle on hover */
+.chat-messages-container::-webkit-scrollbar-thumb:hover {
+    background-color: #555;
+}
+
+/* This sets the width of the scrollbar */
+.chat-messages-container::-webkit-scrollbar {
+    width: 10px;
+}
+
+.chat-form-container {
+    padding-right: 10px;
+    margin-top: 15px; /* Add a top margin to create a gap */
+    padding-bottom: 10px;
+}
+
+.chat-form {
+    display: flex;
+}
+
+.chat-form-wrapper {
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #1F2937;
+    border: 1px solid #4b5564; /* border grey */
+}
+
+.chat-input {
+    flex-grow: 1;
+    padding: 10px;
+    border-radius: 5px; /* Rounded corners on input */
+    border: 1px solid #ccc; /* Border around input */
+    background-color: #1F2937;
+    color: #ffffff; /* White text */
+}
+
+.chat-button-clear {
+    background-color: rgb(245, 96, 96);
+    color: white; /* White text */
+}
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  .bot-avatar {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+  }
