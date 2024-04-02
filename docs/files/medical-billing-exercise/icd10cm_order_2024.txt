@@ -1,0 +1,889 @@
+15831 M0026   0 Other streptococcal arthritis, knee                          Other streptococcal arthritis, knee
+15832 M00261  1 Other streptococcal arthritis, right knee                    Other streptococcal arthritis, right knee
+15833 M00262  1 Other streptococcal arthritis, left knee                     Other streptococcal arthritis, left knee
+15834 M00269  1 Other streptococcal arthritis, unspecified knee
+60291 S781    0 Traumatic amputation at level between hip and knee           Traumatic amputation at level between hip and knee
+60292 S7811   0 Complete traumatic amputation at level between hip and knee  Complete traumatic amputation at level between hip and knee
+60293 S78111  0 Complete traumatic amp at level betw right hip and knee      Complete traumatic amputation at level between right hip and knee
+60294 S78111A 1 Complete traumatic amp at level betw r hip and knee, init    Complete traumatic amputation at level between right hip and knee, initial encounter
+60295 S78111D 1 Complete traumatic amp at level betw r hip and knee, subs    Complete traumatic amputation at level between right hip and knee, subsequent encounter
+60296 S78111S 1 Complete traumatic amp at level betw r hip and knee, sequela Complete traumatic amputation at level between right hip and knee, sequela
+60297 S78112  0 Complete traumatic amp at level betw left hip and knee       Complete traumatic amputation at level between left hip and knee
+60298 S78112A 1 Complete traumatic amp at level betw left hip and knee, init Complete traumatic amputation at level between left hip and knee, initial encounter
+60299 S78112D 1 Complete traumatic amp at level betw left hip and knee, subs Complete traumatic amputation at level between left hip and knee, subsequent encounter
+60300 S78112S 1 Complete traum amp at level betw left hip and knee, sequela  Complete traumatic amputation at level between left hip and knee, sequela
+60301 S78119  0 Complete traumatic amp at level betw unsp hip and knee       Complete traumatic amputation at level between unspecified hip and knee
+60302 S78119A 1 Complete traumatic amp at level betw unsp hip and knee, init Complete traumatic amputation at level between unspecified hip and knee, initial encounter
+60303 S78119D 1 Complete traumatic amp at level betw unsp hip and knee, subs Complete traumatic amputation at level between unspecified hip and knee, subsequent encounter
+60304 S78119S 1 Complete traum amp at level betw unsp hip and knee, sequela  Complete traumatic amputation at level between unspecified hip and knee, sequela
+60305 S7812   0 Partial traumatic amputation at level between hip and knee   Partial traumatic amputation at level between hip and knee
+60306 S78121  0 Partial traumatic amp at level betw right hip and knee       Partial traumatic amputation at level between right hip and knee
+60307 S78121A 1 Partial traumatic amp at level betw right hip and knee, init Partial traumatic amputation at level between right hip and knee, initial encounter
+60308 S78121D 1 Partial traumatic amp at level betw right hip and knee, subs Partial traumatic amputation at level between right hip and knee, subsequent encounter
+60309 S78121S 1 Partial traumatic amp at level betw r hip and knee, sequela  Partial traumatic amputation at level between right hip and knee, sequela
+60310 S78122  0 Partial traumatic amputation at level betw left hip and knee Partial traumatic amputation at level between left hip and knee
+60311 S78122A 1 Partial traumatic amp at level betw left hip and knee, init  Partial traumatic amputation at level between left hip and knee, initial encounter
+60312 S78122D 1 Partial traumatic amp at level betw left hip and knee, subs  Partial traumatic amputation at level between left hip and knee, subsequent encounter
+60313 S78122S 1 Partial traum amp at level betw left hip and knee, sequela   Partial traumatic amputation at level between left hip and knee, sequela
+60314 S78129  0 Partial traumatic amputation at level betw unsp hip and knee Partial traumatic amputation at level between unspecified hip and knee
+60315 S78129A 1 Partial traumatic amp at level betw unsp hip and knee, init  Partial traumatic amputation at level between unspecified hip and knee, initial encounter
+60316 S78129D 1 Partial traumatic amp at level betw unsp hip and knee, subs  Partial traumatic amputation at level between unspecified hip and knee, subsequent encounter
+60317 S78129S 1 Partial traum amp at level betw unsp hip and knee, sequela   Partial traumatic amputation at level between unspecified hip and knee, sequela
+64394 S831    0 Subluxation and dislocation of knee                          Subluxation and dislocation of knee
+64395 S8310   0 Unspecified subluxation and dislocation of knee              Unspecified subluxation and dislocation of knee
+64396 S83101  0 Unspecified subluxation of right knee                        Unspecified subluxation of right knee
+64397 S83101A 1 Unspecified subluxation of right knee, initial encounter     Unspecified subluxation of right knee, initial encounter
+64398 S83101D 1 Unspecified subluxation of right knee, subsequent encounter  Unspecified subluxation of right knee, subsequent encounter
+64399 S83101S 1 Unspecified subluxation of right knee, sequela               Unspecified subluxation of right knee, sequela
+64400 S83102  0 Unspecified subluxation of left knee                         Unspecified subluxation of left knee
+64401 S83102A 1 Unspecified subluxation of left knee, initial encounter      Unspecified subluxation of left knee, initial encounter
+64402 S83102D 1 Unspecified subluxation of left knee, subsequent encounter   Unspecified subluxation of left knee, subsequent encounter
+64403 S83102S 1 Unspecified subluxation of left knee, sequela                Unspecified subluxation of left knee, sequela
+64404 S83103  0 Unspecified subluxation of unspecified knee                  Unspecified subluxation of unspecified knee
+64405 S83103A 1 Unspecified subluxation of unspecified knee, init encntr     Unspecified subluxation of unspecified knee, initial encounter
+64406 S83103D 1 Unspecified subluxation of unspecified knee, subs encntr     Unspecified subluxation of unspecified knee, subsequent encounter
+64407 S83103S 1 Unspecified subluxation of unspecified knee, sequela         Unspecified subluxation of unspecified knee, sequela
+64408 S83104  0 Unspecified dislocation of right knee                        Unspecified dislocation of right knee
+64409 S83104A 1 Unspecified dislocation of right knee, initial encounter     Unspecified dislocation of right knee, initial encounter
+64410 S83104D 1 Unspecified dislocation of right knee, subsequent encounter  Unspecified dislocation of right knee, subsequent encounter
+64411 S83104S 1 Unspecified dislocation of right knee, sequela               Unspecified dislocation of right knee, sequela
+64412 S83105  0 Unspecified dislocation of left knee                         Unspecified dislocation of left knee
+64413 S83105A 1 Unspecified dislocation of left knee, initial encounter      Unspecified dislocation of left knee, initial encounter
+64414 S83105D 1 Unspecified dislocation of left knee, subsequent encounter   Unspecified dislocation of left knee, subsequent encounter
+64415 S83105S 1 Unspecified dislocation of left knee, sequela                Unspecified dislocation of left knee, sequela
+64416 S83106  0 Unspecified dislocation of unspecified knee                  Unspecified dislocation of unspecified knee
+64417 S83106A 1 Unspecified dislocation of unspecified knee, init encntr     Unspecified dislocation of unspecified knee, initial encounter
+64418 S83106D 1 Unspecified dislocation of unspecified knee, subs encntr     Unspecified dislocation of unspecified knee, subsequent encounter
+64419 S83106S 1 Unspecified dislocation of unspecified knee, sequela         Unspecified dislocation of unspecified knee, sequela
+64420 S8311   0 Anterior subluxation and disloc of proximal end of tibia     Anterior subluxation and dislocation of proximal end of tibia
+64421 S83111  0 Anterior subluxation of proximal end of tibia, right knee    Anterior subluxation of proximal end of tibia, right knee
+64422 S83111A 1 Anterior sublux of proximal end of tibia, right knee, init   Anterior subluxation of proximal end of tibia, right knee, initial encounter
+64423 S83111D 1 Anterior sublux of proximal end of tibia, right knee, subs   Anterior subluxation of proximal end of tibia, right knee, subsequent encounter
+64424 S83111S 1 Anterior sublux of proximal end of tibia, r knee, sequela    Anterior subluxation of proximal end of tibia, right knee, sequela
+64425 S83112  0 Anterior subluxation of proximal end of tibia, left knee     Anterior subluxation of proximal end of tibia, left knee
+64426 S83112A 1 Anterior sublux of proximal end of tibia, left knee, init    Anterior subluxation of proximal end of tibia, left knee, initial encounter
+64427 S83112D 1 Anterior sublux of proximal end of tibia, left knee, subs    Anterior subluxation of proximal end of tibia, left knee, subsequent encounter
+64428 S83112S 1 Anterior sublux of proximal end of tibia, left knee, sequela Anterior subluxation of proximal end of tibia, left knee, sequela
+64429 S83113  0 Anterior subluxation of proximal end of tibia, unsp knee     Anterior subluxation of proximal end of tibia, unspecified knee
+64430 S83113A 1 Anterior sublux of proximal end of tibia, unsp knee, init    Anterior subluxation of proximal end of tibia, unspecified knee, initial encounter
+64431 S83113D 1 Anterior sublux of proximal end of tibia, unsp knee, subs    Anterior subluxation of proximal end of tibia, unspecified knee, subsequent encounter
+64432 S83113S 1 Anterior sublux of proximal end of tibia, unsp knee, sequela Anterior subluxation of proximal end of tibia, unspecified knee, sequela
+64433 S83114  0 Anterior dislocation of proximal end of tibia, right knee    Anterior dislocation of proximal end of tibia, right knee
+64434 S83114A 1 Anterior disloc of proximal end of tibia, right knee, init   Anterior dislocation of proximal end of tibia, right knee, initial encounter
+64435 S83114D 1 Anterior disloc of proximal end of tibia, right knee, subs   Anterior dislocation of proximal end of tibia, right knee, subsequent encounter
+64436 S83114S 1 Anterior disloc of proximal end of tibia, r knee, sequela    Anterior dislocation of proximal end of tibia, right knee, sequela
+64437 S83115  0 Anterior dislocation of proximal end of tibia, left knee     Anterior dislocation of proximal end of tibia, left knee
+64438 S83115A 1 Anterior disloc of proximal end of tibia, left knee, init    Anterior dislocation of proximal end of tibia, left knee, initial encounter
+64439 S83115D 1 Anterior disloc of proximal end of tibia, left knee, subs    Anterior dislocation of proximal end of tibia, left knee, subsequent encounter
+64440 S83115S 1 Anterior disloc of proximal end of tibia, left knee, sequela Anterior dislocation of proximal end of tibia, left knee, sequela
+64441 S83116  0 Anterior dislocation of proximal end of tibia, unsp knee     Anterior dislocation of proximal end of tibia, unspecified knee
+64442 S83116A 1 Anterior disloc of proximal end of tibia, unsp knee, init    Anterior dislocation of proximal end of tibia, unspecified knee, initial encounter
+64443 S83116D 1 Anterior disloc of proximal end of tibia, unsp knee, subs    Anterior dislocation of proximal end of tibia, unspecified knee, subsequent encounter
+64444 S83116S 1 Anterior disloc of proximal end of tibia, unsp knee, sequela Anterior dislocation of proximal end of tibia, unspecified knee, sequela
+64445 S8312   0 Posterior subluxation and disloc of proximal end of tibia    Posterior subluxation and dislocation of proximal end of tibia
+64446 S83121  0 Posterior subluxation of proximal end of tibia, right knee   Posterior subluxation of proximal end of tibia, right knee
+64447 S83121A 1 Posterior sublux of proximal end of tibia, right knee, init  Posterior subluxation of proximal end of tibia, right knee, initial encounter
+64448 S83121D 1 Posterior sublux of proximal end of tibia, right knee, subs  Posterior subluxation of proximal end of tibia, right knee, subsequent encounter
+64449 S83121S 1 Posterior sublux of proximal end of tibia, r knee, sequela   Posterior subluxation of proximal end of tibia, right knee, sequela
+64450 S83122  0 Posterior subluxation of proximal end of tibia, left knee    Posterior subluxation of proximal end of tibia, left knee
+64451 S83122A 1 Posterior sublux of proximal end of tibia, left knee, init   Posterior subluxation of proximal end of tibia, left knee, initial encounter
+64452 S83122D 1 Posterior sublux of proximal end of tibia, left knee, subs   Posterior subluxation of proximal end of tibia, left knee, subsequent encounter
+64453 S83122S 1 Posterior sublux of proximal end of tibia, l knee, sequela   Posterior subluxation of proximal end of tibia, left knee, sequela
+64454 S83123  0 Posterior subluxation of proximal end of tibia, unsp knee    Posterior subluxation of proximal end of tibia, unspecified knee
+64455 S83123A 1 Posterior sublux of proximal end of tibia, unsp knee, init   Posterior subluxation of proximal end of tibia, unspecified knee, initial encounter
+64456 S83123D 1 Posterior sublux of proximal end of tibia, unsp knee, subs   Posterior subluxation of proximal end of tibia, unspecified knee, subsequent encounter
+64457 S83123S 1 Post sublux of proximal end of tibia, unsp knee, sequela     Posterior subluxation of proximal end of tibia, unspecified knee, sequela
+64458 S83124  0 Posterior dislocation of proximal end of tibia, right knee   Posterior dislocation of proximal end of tibia, right knee
+64459 S83124A 1 Posterior disloc of proximal end of tibia, right knee, init  Posterior dislocation of proximal end of tibia, right knee, initial encounter
+64460 S83124D 1 Posterior disloc of proximal end of tibia, right knee, subs  Posterior dislocation of proximal end of tibia, right knee, subsequent encounter
+64461 S83124S 1 Posterior disloc of proximal end of tibia, r knee, sequela   Posterior dislocation of proximal end of tibia, right knee, sequela
+64462 S83125  0 Posterior dislocation of proximal end of tibia, left knee    Posterior dislocation of proximal end of tibia, left knee
+64463 S83125A 1 Posterior disloc of proximal end of tibia, left knee, init   Posterior dislocation of proximal end of tibia, left knee, initial encounter
+64464 S83125D 1 Posterior disloc of proximal end of tibia, left knee, subs   Posterior dislocation of proximal end of tibia, left knee, subsequent encounter
+64465 S83125S 1 Posterior disloc of proximal end of tibia, l knee, sequela   Posterior dislocation of proximal end of tibia, left knee, sequela
+64466 S83126  0 Posterior dislocation of proximal end of tibia, unsp knee    Posterior dislocation of proximal end of tibia, unspecified knee
+64467 S83126A 1 Posterior disloc of proximal end of tibia, unsp knee, init   Posterior dislocation of proximal end of tibia, unspecified knee, initial encounter
+64468 S83126D 1 Posterior disloc of proximal end of tibia, unsp knee, subs   Posterior dislocation of proximal end of tibia, unspecified knee, subsequent encounter
+64469 S83126S 1 Post disloc of proximal end of tibia, unsp knee, sequela     Posterior dislocation of proximal end of tibia, unspecified knee, sequela
+64470 S8313   0 Medial subluxation and dislocation of proximal end of tibia  Medial subluxation and dislocation of proximal end of tibia
+64471 S83131  0 Medial subluxation of proximal end of tibia, right knee      Medial subluxation of proximal end of tibia, right knee
+64472 S83131A 1 Medial sublux of proximal end of tibia, right knee, init     Medial subluxation of proximal end of tibia, right knee, initial encounter
+64473 S83131D 1 Medial sublux of proximal end of tibia, right knee, subs     Medial subluxation of proximal end of tibia, right knee, subsequent encounter
+64474 S83131S 1 Medial sublux of proximal end of tibia, right knee, sequela  Medial subluxation of proximal end of tibia, right knee, sequela
+64475 S83132  0 Medial subluxation of proximal end of tibia, left knee       Medial subluxation of proximal end of tibia, left knee
+64476 S83132A 1 Medial subluxation of proximal end of tibia, left knee, init Medial subluxation of proximal end of tibia, left knee, initial encounter
+64477 S83132D 1 Medial subluxation of proximal end of tibia, left knee, subs Medial subluxation of proximal end of tibia, left knee, subsequent encounter
+64478 S83132S 1 Medial sublux of proximal end of tibia, left knee, sequela   Medial subluxation of proximal end of tibia, left knee, sequela
+64479 S83133  0 Medial subluxation of proximal end of tibia, unsp knee       Medial subluxation of proximal end of tibia, unspecified knee
+64480 S83133A 1 Medial subluxation of proximal end of tibia, unsp knee, init Medial subluxation of proximal end of tibia, unspecified knee, initial encounter
+64481 S83133D 1 Medial subluxation of proximal end of tibia, unsp knee, subs Medial subluxation of proximal end of tibia, unspecified knee, subsequent encounter
+64482 S83133S 1 Medial sublux of proximal end of tibia, unsp knee, sequela   Medial subluxation of proximal end of tibia, unspecified knee, sequela
+64483 S83134  0 Medial dislocation of proximal end of tibia, right knee      Medial dislocation of proximal end of tibia, right knee
+64484 S83134A 1 Medial disloc of proximal end of tibia, right knee, init     Medial dislocation of proximal end of tibia, right knee, initial encounter
+64485 S83134D 1 Medial disloc of proximal end of tibia, right knee, subs     Medial dislocation of proximal end of tibia, right knee, subsequent encounter
+64486 S83134S 1 Medial disloc of proximal end of tibia, right knee, sequela  Medial dislocation of proximal end of tibia, right knee, sequela
+64487 S83135  0 Medial dislocation of proximal end of tibia, left knee       Medial dislocation of proximal end of tibia, left knee
+64488 S83135A 1 Medial dislocation of proximal end of tibia, left knee, init Medial dislocation of proximal end of tibia, left knee, initial encounter
+64489 S83135D 1 Medial dislocation of proximal end of tibia, left knee, subs Medial dislocation of proximal end of tibia, left knee, subsequent encounter
+64490 S83135S 1 Medial disloc of proximal end of tibia, left knee, sequela   Medial dislocation of proximal end of tibia, left knee, sequela
+64491 S83136  0 Medial dislocation of proximal end of tibia, unsp knee       Medial dislocation of proximal end of tibia, unspecified knee
+64492 S83136A 1 Medial dislocation of proximal end of tibia, unsp knee, init Medial dislocation of proximal end of tibia, unspecified knee, initial encounter
+64493 S83136D 1 Medial dislocation of proximal end of tibia, unsp knee, subs Medial dislocation of proximal end of tibia, unspecified knee, subsequent encounter
+64494 S83136S 1 Medial disloc of proximal end of tibia, unsp knee, sequela   Medial dislocation of proximal end of tibia, unspecified knee, sequela
+64495 S8314   0 Lateral subluxation and dislocation of proximal end of tibia Lateral subluxation and dislocation of proximal end of tibia
+64496 S83141  0 Lateral subluxation of proximal end of tibia, right knee     Lateral subluxation of proximal end of tibia, right knee
+64497 S83141A 1 Lateral sublux of proximal end of tibia, right knee, init    Lateral subluxation of proximal end of tibia, right knee, initial encounter
+64498 S83141D 1 Lateral sublux of proximal end of tibia, right knee, subs    Lateral subluxation of proximal end of tibia, right knee, subsequent encounter
+64499 S83141S 1 Lateral sublux of proximal end of tibia, right knee, sequela Lateral subluxation of proximal end of tibia, right knee, sequela
+64500 S83142  0 Lateral subluxation of proximal end of tibia, left knee      Lateral subluxation of proximal end of tibia, left knee
+64501 S83142A 1 Lateral sublux of proximal end of tibia, left knee, init     Lateral subluxation of proximal end of tibia, left knee, initial encounter
+64502 S83142D 1 Lateral sublux of proximal end of tibia, left knee, subs     Lateral subluxation of proximal end of tibia, left knee, subsequent encounter
+64503 S83142S 1 Lateral sublux of proximal end of tibia, left knee, sequela  Lateral subluxation of proximal end of tibia, left knee, sequela
+64504 S83143  0 Lateral subluxation of proximal end of tibia, unsp knee      Lateral subluxation of proximal end of tibia, unspecified knee
+64505 S83143A 1 Lateral sublux of proximal end of tibia, unsp knee, init     Lateral subluxation of proximal end of tibia, unspecified knee, initial encounter
+64506 S83143D 1 Lateral sublux of proximal end of tibia, unsp knee, subs     Lateral subluxation of proximal end of tibia, unspecified knee, subsequent encounter
+64507 S83143S 1 Lateral sublux of proximal end of tibia, unsp knee, sequela  Lateral subluxation of proximal end of tibia, unspecified knee, sequela
+64508 S83144  0 Lateral dislocation of proximal end of tibia, right knee     Lateral dislocation of proximal end of tibia, right knee
+64509 S83144A 1 Lateral disloc of proximal end of tibia, right knee, init    Lateral dislocation of proximal end of tibia, right knee, initial encounter
+64510 S83144D 1 Lateral disloc of proximal end of tibia, right knee, subs    Lateral dislocation of proximal end of tibia, right knee, subsequent encounter
+64511 S83144S 1 Lateral disloc of proximal end of tibia, right knee, sequela Lateral dislocation of proximal end of tibia, right knee, sequela
+64512 S83145  0 Lateral dislocation of proximal end of tibia, left knee      Lateral dislocation of proximal end of tibia, left knee
+64513 S83145A 1 Lateral disloc of proximal end of tibia, left knee, init     Lateral dislocation of proximal end of tibia, left knee, initial encounter
+64514 S83145D 1 Lateral disloc of proximal end of tibia, left knee, subs     Lateral dislocation of proximal end of tibia, left knee, subsequent encounter
+64515 S83145S 1 Lateral disloc of proximal end of tibia, left knee, sequela  Lateral dislocation of proximal end of tibia, left knee, sequela
+64516 S83146  0 Lateral dislocation of proximal end of tibia, unsp knee      Lateral dislocation of proximal end of tibia, unspecified knee
+64517 S83146A 1 Lateral disloc of proximal end of tibia, unsp knee, init     Lateral dislocation of proximal end of tibia, unspecified knee, initial encounter
+64518 S83146D 1 Lateral disloc of proximal end of tibia, unsp knee, subs     Lateral dislocation of proximal end of tibia, unspecified knee, subsequent encounter
+64519 S83146S 1 Lateral disloc of proximal end of tibia, unsp knee, sequela  Lateral dislocation of proximal end of tibia, unspecified knee, sequela
+64520 S8319   0 Other subluxation and dislocation of knee                    Other subluxation and dislocation of knee
+64521 S83191  0 Other subluxation of right knee                              Other subluxation of right knee
+64522 S83191A 1 Other subluxation of right knee, initial encounter           Other subluxation of right knee, initial encounter
+64523 S83191D 1 Other subluxation of right knee, subsequent encounter        Other subluxation of right knee, subsequent encounter
+64524 S83191S 1 Other subluxation of right knee, sequela                     Other subluxation of right knee, sequela
+64525 S83192  0 Other subluxation of left knee                               Other subluxation of left knee
+64526 S83192A 1 Other subluxation of left knee, initial encounter            Other subluxation of left knee, initial encounter
+64527 S83192D 1 Other subluxation of left knee, subsequent encounter         Other subluxation of left knee, subsequent encounter
+64528 S83192S 1 Other subluxation of left knee, sequela                      Other subluxation of left knee, sequela
+64529 S83193  0 Other subluxation of unspecified knee                        Other subluxation of unspecified knee
+64530 S83193A 1 Other subluxation of unspecified knee, initial encounter     Other subluxation of unspecified knee, initial encounter
+64531 S83193D 1 Other subluxation of unspecified knee, subsequent encounter  Other subluxation of unspecified knee, subsequent encounter
+64532 S83193S 1 Other subluxation of unspecified knee, sequela               Other subluxation of unspecified knee, sequela
+64533 S83194  0 Other dislocation of right knee                              Other dislocation of right knee
+64534 S83194A 1 Other dislocation of right knee, initial encounter           Other dislocation of right knee, initial encounter
+64535 S83194D 1 Other dislocation of right knee, subsequent encounter        Other dislocation of right knee, subsequent encounter
+64536 S83194S 1 Other dislocation of right knee, sequela                     Other dislocation of right knee, sequela
+64537 S83195  0 Other dislocation of left knee                               Other dislocation of left knee
+64538 S83195A 1 Other dislocation of left knee, initial encounter            Other dislocation of left knee, initial encounter
+64539 S83195D 1 Other dislocation of left knee, subsequent encounter         Other dislocation of left knee, subsequent encounter
+64540 S83195S 1 Other dislocation of left knee, sequela                      Other dislocation of left knee, sequela
+64541 S83196  0 Other dislocation of unspecified knee                        Other dislocation of unspecified knee
+64542 S83196A 1 Other dislocation of unspecified knee, initial encounter     Other dislocation of unspecified knee, initial encounter
+64543 S83196D 1 Other dislocation of unspecified knee, subsequent encounter  Other dislocation of unspecified knee, subsequent encounter
+64544 S83196S 1 Other dislocation of unspecified knee, sequela               Other dislocation of unspecified knee, sequela
+64545 S832    0 Tear of meniscus, current injury                             Tear of meniscus, current injury
+64546 S8320   0 Tear of unspecified meniscus, current injury                 Tear of unspecified meniscus, current injury
+64547 S83200  0 Bucket-hndl tear of unsp meniscus, current injury, r knee    Bucket-handle tear of unspecified meniscus, current injury, right knee
+64548 S83200A 1 Bucket-hndl tear of unsp mensc, current injury, r knee, init Bucket-handle tear of unspecified meniscus, current injury, right knee, initial encounter
+64549 S83200D 1 Bucket-hndl tear of unsp mensc, current injury, r knee, subs Bucket-handle tear of unspecified meniscus, current injury, right knee, subsequent encounter
+64550 S83200S 1 Bucket-hndl tear of unsp mensc, crnt injury, r knee, sequela Bucket-handle tear of unspecified meniscus, current injury, right knee, sequela
+64551 S83201  0 Bucket-hndl tear of unsp meniscus, current injury, left knee Bucket-handle tear of unspecified meniscus, current injury, left knee
+64552 S83201A 1 Bucket-hndl tear of unsp mensc, current injury, l knee, init Bucket-handle tear of unspecified meniscus, current injury, left knee, initial encounter
+64553 S83201D 1 Bucket-hndl tear of unsp mensc, current injury, l knee, subs Bucket-handle tear of unspecified meniscus, current injury, left knee, subsequent encounter
+64554 S83201S 1 Bucket-hndl tear of unsp mensc, crnt injury, l knee, sequela Bucket-handle tear of unspecified meniscus, current injury, left knee, sequela
+64555 S83202  0 Bucket-hndl tear of unsp meniscus, current injury, unsp knee Bucket-handle tear of unspecified meniscus, current injury, unspecified knee
+64556 S83202A 1 Bucket-hndl tear of unsp mensc, crnt injury, unsp knee, init Bucket-handle tear of unspecified meniscus, current injury, unspecified knee, initial encounter
+64557 S83202D 1 Bucket-hndl tear of unsp mensc, crnt injury, unsp knee, subs Bucket-handle tear of unspecified meniscus, current injury, unspecified knee, subsequent encounter
+64558 S83202S 1 Bucket-hndl tear of unsp mensc, crnt injury, unsp knee, sqla Bucket-handle tear of unspecified meniscus, current injury, unspecified knee, sequela
+64559 S83203  0 Other tear of unsp meniscus, current injury, right knee      Other tear of unspecified meniscus, current injury, right knee
+64560 S83203A 1 Oth tear of unsp meniscus, current injury, right knee, init  Other tear of unspecified meniscus, current injury, right knee, initial encounter
+64561 S83203D 1 Oth tear of unsp meniscus, current injury, right knee, subs  Other tear of unspecified meniscus, current injury, right knee, subsequent encounter
+64562 S83203S 1 Oth tear of unsp meniscus, current injury, r knee, sequela   Other tear of unspecified meniscus, current injury, right knee, sequela
+64563 S83204  0 Other tear of unsp meniscus, current injury, left knee       Other tear of unspecified meniscus, current injury, left knee
+64564 S83204A 1 Oth tear of unsp meniscus, current injury, left knee, init   Other tear of unspecified meniscus, current injury, left knee, initial encounter
+64565 S83204D 1 Oth tear of unsp meniscus, current injury, left knee, subs   Other tear of unspecified meniscus, current injury, left knee, subsequent encounter
+64566 S83204S 1 Oth tear of unsp meniscus, current injury, l knee, sequela   Other tear of unspecified meniscus, current injury, left knee, sequela
+64567 S83205  0 Other tear of unsp meniscus, current injury, unsp knee       Other tear of unspecified meniscus, current injury, unspecified knee
+64568 S83205A 1 Oth tear of unsp meniscus, current injury, unsp knee, init   Other tear of unspecified meniscus, current injury, unspecified knee, initial encounter
+64569 S83205D 1 Oth tear of unsp meniscus, current injury, unsp knee, subs   Other tear of unspecified meniscus, current injury, unspecified knee, subsequent encounter
+64570 S83205S 1 Oth tear of unsp mensc, current injury, unsp knee, sequela   Other tear of unspecified meniscus, current injury, unspecified knee, sequela
+64571 S83206  0 Unsp tear of unsp meniscus, current injury, right knee       Unspecified tear of unspecified meniscus, current injury, right knee
+64572 S83206A 1 Unsp tear of unsp meniscus, current injury, right knee, init Unspecified tear of unspecified meniscus, current injury, right knee, initial encounter
+64573 S83206D 1 Unsp tear of unsp meniscus, current injury, right knee, subs Unspecified tear of unspecified meniscus, current injury, right knee, subsequent encounter
+64574 S83206S 1 Unsp tear of unsp meniscus, current injury, r knee, sequela  Unspecified tear of unspecified meniscus, current injury, right knee, sequela
+64575 S83207  0 Unsp tear of unspecified meniscus, current injury, left knee Unspecified tear of unspecified meniscus, current injury, left knee
+64576 S83207A 1 Unsp tear of unsp meniscus, current injury, left knee, init  Unspecified tear of unspecified meniscus, current injury, left knee, initial encounter
+64577 S83207D 1 Unsp tear of unsp meniscus, current injury, left knee, subs  Unspecified tear of unspecified meniscus, current injury, left knee, subsequent encounter
+64578 S83207S 1 Unsp tear of unsp meniscus, current injury, l knee, sequela  Unspecified tear of unspecified meniscus, current injury, left knee, sequela
+64579 S83209  0 Unsp tear of unsp meniscus, current injury, unspecified knee Unspecified tear of unspecified meniscus, current injury, unspecified knee
+64580 S83209A 1 Unsp tear of unsp meniscus, current injury, unsp knee, init  Unspecified tear of unspecified meniscus, current injury, unspecified knee, initial encounter
+64581 S83209D 1 Unsp tear of unsp meniscus, current injury, unsp knee, subs  Unspecified tear of unspecified meniscus, current injury, unspecified knee, subsequent encounter
+64582 S83209S 1 Unsp tear of unsp mensc, current injury, unsp knee, sequela  Unspecified tear of unspecified meniscus, current injury, unspecified knee, sequela
+64583 S8321   0 Bucket-handle tear of medial meniscus, current injury        Bucket-handle tear of medial meniscus, current injury
+64584 S83211  0 Bucket-hndl tear of medial meniscus, current injury, r knee  Bucket-handle tear of medial meniscus, current injury, right knee
+64585 S83211A 1 Bucket-hndl tear of medial mensc, crnt injury, r knee, init  Bucket-handle tear of medial meniscus, current injury, right knee, initial encounter
+64586 S83211D 1 Bucket-hndl tear of medial mensc, crnt injury, r knee, subs  Bucket-handle tear of medial meniscus, current injury, right knee, subsequent encounter
+64587 S83211S 1 Bucket-hndl tear of medial mensc, crnt injury, r knee, sqla  Bucket-handle tear of medial meniscus, current injury, right knee, sequela
+64588 S83212  0 Bucket-hndl tear of medial meniscus, current injury, l knee  Bucket-handle tear of medial meniscus, current injury, left knee
+64589 S83212A 1 Bucket-hndl tear of medial mensc, crnt injury, l knee, init  Bucket-handle tear of medial meniscus, current injury, left knee, initial encounter
+64590 S83212D 1 Bucket-hndl tear of medial mensc, crnt injury, l knee, subs  Bucket-handle tear of medial meniscus, current injury, left knee, subsequent encounter
+64591 S83212S 1 Bucket-hndl tear of medial mensc, crnt injury, l knee, sqla  Bucket-handle tear of medial meniscus, current injury, left knee, sequela
+64592 S83219  0 Bucket-hndl tear of medial mensc, current injury, unsp knee  Bucket-handle tear of medial meniscus, current injury, unspecified knee
+64593 S83219A 1 Bucket-hndl tear of medial mensc, crnt inj, unsp knee, init  Bucket-handle tear of medial meniscus, current injury, unspecified knee, initial encounter
+64594 S83219D 1 Bucket-hndl tear of medial mensc, crnt inj, unsp knee, subs  Bucket-handle tear of medial meniscus, current injury, unspecified knee, subsequent encounter
+64595 S83219S 1 Bucket-hndl tear of medial mensc, crnt inj, unsp knee, sqla  Bucket-handle tear of medial meniscus, current injury, unspecified knee, sequela
+64596 S8322   0 Peripheral tear of medial meniscus, current injury           Peripheral tear of medial meniscus, current injury
+64597 S83221  0 Prph tear of medial meniscus, current injury, right knee     Peripheral tear of medial meniscus, current injury, right knee
+64598 S83221A 1 Prph tear of medial meniscus, current injury, r knee, init   Peripheral tear of medial meniscus, current injury, right knee, initial encounter
+64599 S83221D 1 Prph tear of medial meniscus, current injury, r knee, subs   Peripheral tear of medial meniscus, current injury, right knee, subsequent encounter
+64600 S83221S 1 Prph tear of medial mensc, current injury, r knee, sequela   Peripheral tear of medial meniscus, current injury, right knee, sequela
+64601 S83222  0 Prph tear of medial meniscus, current injury, left knee      Peripheral tear of medial meniscus, current injury, left knee
+64602 S83222A 1 Prph tear of medial meniscus, current injury, l knee, init   Peripheral tear of medial meniscus, current injury, left knee, initial encounter
+64603 S83222D 1 Prph tear of medial meniscus, current injury, l knee, subs   Peripheral tear of medial meniscus, current injury, left knee, subsequent encounter
+64604 S83222S 1 Prph tear of medial mensc, current injury, l knee, sequela   Peripheral tear of medial meniscus, current injury, left knee, sequela
+64605 S83229  0 Prph tear of medial meniscus, current injury, unsp knee      Peripheral tear of medial meniscus, current injury, unspecified knee
+64606 S83229A 1 Prph tear of medial mensc, current injury, unsp knee, init   Peripheral tear of medial meniscus, current injury, unspecified knee, initial encounter
+64607 S83229D 1 Prph tear of medial mensc, current injury, unsp knee, subs   Peripheral tear of medial meniscus, current injury, unspecified knee, subsequent encounter
+64608 S83229S 1 Prph tear of medial mensc, crnt injury, unsp knee, sequela   Peripheral tear of medial meniscus, current injury, unspecified knee, sequela
+64609 S8323   0 Complex tear of medial meniscus, current injury              Complex tear of medial meniscus, current injury
+64610 S83231  0 Complex tear of medial meniscus, current injury, right knee  Complex tear of medial meniscus, current injury, right knee
+64611 S83231A 1 Complex tear of medial mensc, current injury, r knee, init   Complex tear of medial meniscus, current injury, right knee, initial encounter
+64612 S83231D 1 Complex tear of medial mensc, current injury, r knee, subs   Complex tear of medial meniscus, current injury, right knee, subsequent encounter
+64613 S83231S 1 Cmplx tear of medial mensc, current injury, r knee, sequela  Complex tear of medial meniscus, current injury, right knee, sequela
+64614 S83232  0 Complex tear of medial meniscus, current injury, left knee   Complex tear of medial meniscus, current injury, left knee
+64615 S83232A 1 Complex tear of medial mensc, current injury, l knee, init   Complex tear of medial meniscus, current injury, left knee, initial encounter
+64616 S83232D 1 Complex tear of medial mensc, current injury, l knee, subs   Complex tear of medial meniscus, current injury, left knee, subsequent encounter
+64617 S83232S 1 Cmplx tear of medial mensc, current injury, l knee, sequela  Complex tear of medial meniscus, current injury, left knee, sequela
+64618 S83239  0 Complex tear of medial meniscus, current injury, unsp knee   Complex tear of medial meniscus, current injury, unspecified knee
+64619 S83239A 1 Cmplx tear of medial mensc, current injury, unsp knee, init  Complex tear of medial meniscus, current injury, unspecified knee, initial encounter
+64620 S83239D 1 Cmplx tear of medial mensc, current injury, unsp knee, subs  Complex tear of medial meniscus, current injury, unspecified knee, subsequent encounter
+64621 S83239S 1 Cmplx tear of medial mensc, crnt injury, unsp knee, sequela  Complex tear of medial meniscus, current injury, unspecified knee, sequela
+64622 S8324   0 Other tear of medial meniscus, current injury                Other tear of medial meniscus, current injury
+64623 S83241  0 Other tear of medial meniscus, current injury, right knee    Other tear of medial meniscus, current injury, right knee
+64624 S83241A 1 Oth tear of medial meniscus, current injury, r knee, init    Other tear of medial meniscus, current injury, right knee, initial encounter
+64625 S83241D 1 Oth tear of medial meniscus, current injury, r knee, subs    Other tear of medial meniscus, current injury, right knee, subsequent encounter
+64626 S83241S 1 Oth tear of medial meniscus, current injury, r knee, sequela Other tear of medial meniscus, current injury, right knee, sequela
+64627 S83242  0 Other tear of medial meniscus, current injury, left knee     Other tear of medial meniscus, current injury, left knee
+64628 S83242A 1 Oth tear of medial meniscus, current injury, left knee, init Other tear of medial meniscus, current injury, left knee, initial encounter
+64629 S83242D 1 Oth tear of medial meniscus, current injury, left knee, subs Other tear of medial meniscus, current injury, left knee, subsequent encounter
+64630 S83242S 1 Oth tear of medial meniscus, current injury, l knee, sequela Other tear of medial meniscus, current injury, left knee, sequela
+64631 S83249  0 Other tear of medial meniscus, current injury, unsp knee     Other tear of medial meniscus, current injury, unspecified knee
+64632 S83249A 1 Oth tear of medial meniscus, current injury, unsp knee, init Other tear of medial meniscus, current injury, unspecified knee, initial encounter
+64633 S83249D 1 Oth tear of medial meniscus, current injury, unsp knee, subs Other tear of medial meniscus, current injury, unspecified knee, subsequent encounter
+64634 S83249S 1 Oth tear of medial mensc, current injury, unsp knee, sequela Other tear of medial meniscus, current injury, unspecified knee, sequela
+64635 S8325   0 Bucket-handle tear of lateral meniscus, current injury       Bucket-handle tear of lateral meniscus, current injury
+64636 S83251  0 Bucket-handle tear of lat mensc, current injury, right knee  Bucket-handle tear of lateral meniscus, current injury, right knee
+64637 S83251A 1 Bucket-hndl tear of lat mensc, current injury, r knee, init  Bucket-handle tear of lateral meniscus, current injury, right knee, initial encounter
+64638 S83251D 1 Bucket-hndl tear of lat mensc, current injury, r knee, subs  Bucket-handle tear of lateral meniscus, current injury, right knee, subsequent encounter
+64639 S83251S 1 Bucket-hndl tear of lat mensc, crnt injury, r knee, sequela  Bucket-handle tear of lateral meniscus, current injury, right knee, sequela
+64640 S83252  0 Bucket-handle tear of lat mensc, current injury, left knee   Bucket-handle tear of lateral meniscus, current injury, left knee
+64641 S83252A 1 Bucket-hndl tear of lat mensc, current injury, l knee, init  Bucket-handle tear of lateral meniscus, current injury, left knee, initial encounter
+64642 S83252D 1 Bucket-hndl tear of lat mensc, current injury, l knee, subs  Bucket-handle tear of lateral meniscus, current injury, left knee, subsequent encounter
+64643 S83252S 1 Bucket-hndl tear of lat mensc, crnt injury, l knee, sequela  Bucket-handle tear of lateral meniscus, current injury, left knee, sequela
+64644 S83259  0 Bucket-handle tear of lat mensc, current injury, unsp knee   Bucket-handle tear of lateral meniscus, current injury, unspecified knee
+64645 S83259A 1 Bucket-hndl tear of lat mensc, crnt injury, unsp knee, init  Bucket-handle tear of lateral meniscus, current injury, unspecified knee, initial encounter
+64646 S83259D 1 Bucket-hndl tear of lat mensc, crnt injury, unsp knee, subs  Bucket-handle tear of lateral meniscus, current injury, unspecified knee, subsequent encounter
+64647 S83259S 1 Bucket-hndl tear of lat mensc, crnt injury, unsp knee, sqla  Bucket-handle tear of lateral meniscus, current injury, unspecified knee, sequela
+64648 S8326   0 Peripheral tear of lateral meniscus, current injury          Peripheral tear of lateral meniscus, current injury
+64649 S83261  0 Peripheral tear of lat mensc, current injury, right knee     Peripheral tear of lateral meniscus, current injury, right knee
+64650 S83261A 1 Prph tear of lat mensc, current injury, right knee, init     Peripheral tear of lateral meniscus, current injury, right knee, initial encounter
+64651 S83261D 1 Prph tear of lat mensc, current injury, right knee, subs     Peripheral tear of lateral meniscus, current injury, right knee, subsequent encounter
+64652 S83261S 1 Prph tear of lat mensc, current injury, right knee, sequela  Peripheral tear of lateral meniscus, current injury, right knee, sequela
+64653 S83262  0 Peripheral tear of lat mensc, current injury, left knee      Peripheral tear of lateral meniscus, current injury, left knee
+64654 S83262A 1 Prph tear of lat mensc, current injury, left knee, init      Peripheral tear of lateral meniscus, current injury, left knee, initial encounter
+64655 S83262D 1 Prph tear of lat mensc, current injury, left knee, subs      Peripheral tear of lateral meniscus, current injury, left knee, subsequent encounter
+64656 S83262S 1 Prph tear of lat mensc, current injury, left knee, sequela   Peripheral tear of lateral meniscus, current injury, left knee, sequela
+64657 S83269  0 Peripheral tear of lat mensc, current injury, unsp knee      Peripheral tear of lateral meniscus, current injury, unspecified knee
+64658 S83269A 1 Prph tear of lat mensc, current injury, unsp knee, init      Peripheral tear of lateral meniscus, current injury, unspecified knee, initial encounter
+64659 S83269D 1 Prph tear of lat mensc, current injury, unsp knee, subs      Peripheral tear of lateral meniscus, current injury, unspecified knee, subsequent encounter
+64660 S83269S 1 Prph tear of lat mensc, current injury, unsp knee, sequela   Peripheral tear of lateral meniscus, current injury, unspecified knee, sequela
+64661 S8327   0 Complex tear of lateral meniscus, current injury             Complex tear of lateral meniscus, current injury
+64662 S83271  0 Complex tear of lateral meniscus, current injury, right knee Complex tear of lateral meniscus, current injury, right knee
+64663 S83271A 1 Complex tear of lat mensc, current injury, right knee, init  Complex tear of lateral meniscus, current injury, right knee, initial encounter
+64664 S83271D 1 Complex tear of lat mensc, current injury, right knee, subs  Complex tear of lateral meniscus, current injury, right knee, subsequent encounter
+64665 S83271S 1 Complex tear of lat mensc, current injury, r knee, sequela   Complex tear of lateral meniscus, current injury, right knee, sequela
+64666 S83272  0 Complex tear of lateral meniscus, current injury, left knee  Complex tear of lateral meniscus, current injury, left knee
+64667 S83272A 1 Complex tear of lat mensc, current injury, left knee, init   Complex tear of lateral meniscus, current injury, left knee, initial encounter
+64668 S83272D 1 Complex tear of lat mensc, current injury, left knee, subs   Complex tear of lateral meniscus, current injury, left knee, subsequent encounter
+64669 S83272S 1 Complex tear of lat mensc, current injury, l knee, sequela   Complex tear of lateral meniscus, current injury, left knee, sequela
+64670 S83279  0 Complex tear of lateral meniscus, current injury, unsp knee  Complex tear of lateral meniscus, current injury, unspecified knee
+64671 S83279A 1 Complex tear of lat mensc, current injury, unsp knee, init   Complex tear of lateral meniscus, current injury, unspecified knee, initial encounter
+64672 S83279D 1 Complex tear of lat mensc, current injury, unsp knee, subs   Complex tear of lateral meniscus, current injury, unspecified knee, subsequent encounter
+64673 S83279S 1 Cmplx tear of lat mensc, current injury, unsp knee, sequela  Complex tear of lateral meniscus, current injury, unspecified knee, sequela
+64674 S8328   0 Other tear of lateral meniscus, current injury               Other tear of lateral meniscus, current injury
+64675 S83281  0 Other tear of lateral meniscus, current injury, right knee   Other tear of lateral meniscus, current injury, right knee
+64676 S83281A 1 Oth tear of lat mensc, current injury, right knee, init      Other tear of lateral meniscus, current injury, right knee, initial encounter
+64677 S83281D 1 Oth tear of lat mensc, current injury, right knee, subs      Other tear of lateral meniscus, current injury, right knee, subsequent encounter
+64678 S83281S 1 Oth tear of lat mensc, current injury, right knee, sequela   Other tear of lateral meniscus, current injury, right knee, sequela
+64679 S83282  0 Other tear of lateral meniscus, current injury, left knee    Other tear of lateral meniscus, current injury, left knee
+64680 S83282A 1 Oth tear of lat mensc, current injury, left knee, init       Other tear of lateral meniscus, current injury, left knee, initial encounter
+64681 S83282D 1 Oth tear of lat mensc, current injury, left knee, subs       Other tear of lateral meniscus, current injury, left knee, subsequent encounter
+64682 S83282S 1 Oth tear of lat mensc, current injury, left knee, sequela    Other tear of lateral meniscus, current injury, left knee, sequela
+64683 S83289  0 Other tear of lateral meniscus, current injury, unsp knee    Other tear of lateral meniscus, current injury, unspecified knee
+64684 S83289A 1 Oth tear of lat mensc, current injury, unsp knee, init       Other tear of lateral meniscus, current injury, unspecified knee, initial encounter
+64685 S83289D 1 Oth tear of lat mensc, current injury, unsp knee, subs       Other tear of lateral meniscus, current injury, unspecified knee, subsequent encounter
+64686 S83289S 1 Oth tear of lat mensc, current injury, unsp knee, sequela    Other tear of lateral meniscus, current injury, unspecified knee, sequela
+64687 S833    0 Tear of articular cartilage of knee, current                 Tear of articular cartilage of knee, current
+64688 S8330   0 Tear of articular cartilage of unspecified knee, current     Tear of articular cartilage of unspecified knee, current
+64689 S8330XA 1 Tear of articular cartilage of unsp knee, current, init      Tear of articular cartilage of unspecified knee, current, initial encounter
+64690 S8330XD 1 Tear of articular cartilage of unsp knee, current, subs      Tear of articular cartilage of unspecified knee, current, subsequent encounter
+64691 S8330XS 1 Tear of articular cartilage of unsp knee, current, sequela   Tear of articular cartilage of unspecified knee, current, sequela
+64692 S8331   0 Tear of articular cartilage of right knee, current           Tear of articular cartilage of right knee, current
+64693 S8331XA 1 Tear of articular cartilage of right knee, current, init     Tear of articular cartilage of right knee, current, initial encounter
+64694 S8331XD 1 Tear of articular cartilage of right knee, current, subs     Tear of articular cartilage of right knee, current, subsequent encounter
+64695 S8331XS 1 Tear of articular cartilage of right knee, current, sequela  Tear of articular cartilage of right knee, current, sequela
+64696 S8332   0 Tear of articular cartilage of left knee, current            Tear of articular cartilage of left knee, current
+64697 S8332XA 1 Tear of articular cartilage of left knee, current, init      Tear of articular cartilage of left knee, current, initial encounter
+64698 S8332XD 1 Tear of articular cartilage of left knee, current, subs      Tear of articular cartilage of left knee, current, subsequent encounter
+64699 S8332XS 1 Tear of articular cartilage of left knee, current, sequela   Tear of articular cartilage of left knee, current, sequela
+64700 S834    0 Sprain of collateral ligament of knee                        Sprain of collateral ligament of knee
+64701 S8340   0 Sprain of unspecified collateral ligament of knee            Sprain of unspecified collateral ligament of knee
+64702 S83401  0 Sprain of unspecified collateral ligament of right knee      Sprain of unspecified collateral ligament of right knee
+64703 S83401A 1 Sprain of unsp collateral ligament of right knee, init       Sprain of unspecified collateral ligament of right knee, initial encounter
+64704 S83401D 1 Sprain of unsp collateral ligament of right knee, subs       Sprain of unspecified collateral ligament of right knee, subsequent encounter
+64705 S83401S 1 Sprain of unsp collateral ligament of right knee, sequela    Sprain of unspecified collateral ligament of right knee, sequela
+64706 S83402  0 Sprain of unspecified collateral ligament of left knee       Sprain of unspecified collateral ligament of left knee
+64707 S83402A 1 Sprain of unsp collateral ligament of left knee, init encntr Sprain of unspecified collateral ligament of left knee, initial encounter
+64708 S83402D 1 Sprain of unsp collateral ligament of left knee, subs encntr Sprain of unspecified collateral ligament of left knee, subsequent encounter
+64709 S83402S 1 Sprain of unsp collateral ligament of left knee, sequela     Sprain of unspecified collateral ligament of left knee, sequela
+64710 S83409  0 Sprain of unsp collateral ligament of unspecified knee       Sprain of unspecified collateral ligament of unspecified knee
+64711 S83409A 1 Sprain of unsp collateral ligament of unsp knee, init encntr Sprain of unspecified collateral ligament of unspecified knee, initial encounter
+64712 S83409D 1 Sprain of unsp collateral ligament of unsp knee, subs encntr Sprain of unspecified collateral ligament of unspecified knee, subsequent encounter
+64713 S83409S 1 Sprain of unsp collateral ligament of unsp knee, sequela     Sprain of unspecified collateral ligament of unspecified knee, sequela
+64714 S8341   0 Sprain of medial collateral ligament of knee                 Sprain of medial collateral ligament of knee
+64715 S83411  0 Sprain of medial collateral ligament of right knee           Sprain of medial collateral ligament of right knee
+64716 S83411A 1 Sprain of medial collateral ligament of right knee, init     Sprain of medial collateral ligament of right knee, initial encounter
+64717 S83411D 1 Sprain of medial collateral ligament of right knee, subs     Sprain of medial collateral ligament of right knee, subsequent encounter
+64718 S83411S 1 Sprain of medial collateral ligament of right knee, sequela  Sprain of medial collateral ligament of right knee, sequela
+64719 S83412  0 Sprain of medial collateral ligament of left knee            Sprain of medial collateral ligament of left knee
+64720 S83412A 1 Sprain of medial collateral ligament of left knee, init      Sprain of medial collateral ligament of left knee, initial encounter
+64721 S83412D 1 Sprain of medial collateral ligament of left knee, subs      Sprain of medial collateral ligament of left knee, subsequent encounter
+64722 S83412S 1 Sprain of medial collateral ligament of left knee, sequela   Sprain of medial collateral ligament of left knee, sequela
+64723 S83419  0 Sprain of medial collateral ligament of unspecified knee     Sprain of medial collateral ligament of unspecified knee
+64724 S83419A 1 Sprain of medial collateral ligament of unsp knee, init      Sprain of medial collateral ligament of unspecified knee, initial encounter
+64725 S83419D 1 Sprain of medial collateral ligament of unsp knee, subs      Sprain of medial collateral ligament of unspecified knee, subsequent encounter
+64726 S83419S 1 Sprain of medial collateral ligament of unsp knee, sequela   Sprain of medial collateral ligament of unspecified knee, sequela
+64727 S8342   0 Sprain of lateral collateral ligament of knee                Sprain of lateral collateral ligament of knee
+64728 S83421  0 Sprain of lateral collateral ligament of right knee          Sprain of lateral collateral ligament of right knee
+64729 S83421A 1 Sprain of lateral collateral ligament of right knee, init    Sprain of lateral collateral ligament of right knee, initial encounter
+64730 S83421D 1 Sprain of lateral collateral ligament of right knee, subs    Sprain of lateral collateral ligament of right knee, subsequent encounter
+64731 S83421S 1 Sprain of lateral collateral ligament of right knee, sequela Sprain of lateral collateral ligament of right knee, sequela
+64732 S83422  0 Sprain of lateral collateral ligament of left knee           Sprain of lateral collateral ligament of left knee
+64733 S83422A 1 Sprain of lateral collateral ligament of left knee, init     Sprain of lateral collateral ligament of left knee, initial encounter
+64734 S83422D 1 Sprain of lateral collateral ligament of left knee, subs     Sprain of lateral collateral ligament of left knee, subsequent encounter
+64735 S83422S 1 Sprain of lateral collateral ligament of left knee, sequela  Sprain of lateral collateral ligament of left knee, sequela
+64736 S83429  0 Sprain of lateral collateral ligament of unspecified knee    Sprain of lateral collateral ligament of unspecified knee
+64737 S83429A 1 Sprain of lateral collateral ligament of unsp knee, init     Sprain of lateral collateral ligament of unspecified knee, initial encounter
+64738 S83429D 1 Sprain of lateral collateral ligament of unsp knee, subs     Sprain of lateral collateral ligament of unspecified knee, subsequent encounter
+64739 S83429S 1 Sprain of lateral collateral ligament of unsp knee, sequela  Sprain of lateral collateral ligament of unspecified knee, sequela
+64740 S835    0 Sprain of cruciate ligament of knee                          Sprain of cruciate ligament of knee
+64741 S8350   0 Sprain of unspecified cruciate ligament of knee              Sprain of unspecified cruciate ligament of knee
+64742 S83501  0 Sprain of unspecified cruciate ligament of right knee        Sprain of unspecified cruciate ligament of right knee
+64743 S83501A 1 Sprain of unsp cruciate ligament of right knee, init encntr  Sprain of unspecified cruciate ligament of right knee, initial encounter
+64744 S83501D 1 Sprain of unsp cruciate ligament of right knee, subs encntr  Sprain of unspecified cruciate ligament of right knee, subsequent encounter
+64745 S83501S 1 Sprain of unsp cruciate ligament of right knee, sequela      Sprain of unspecified cruciate ligament of right knee, sequela
+64746 S83502  0 Sprain of unspecified cruciate ligament of left knee         Sprain of unspecified cruciate ligament of left knee
+64747 S83502A 1 Sprain of unsp cruciate ligament of left knee, init encntr   Sprain of unspecified cruciate ligament of left knee, initial encounter
+64748 S83502D 1 Sprain of unsp cruciate ligament of left knee, subs encntr   Sprain of unspecified cruciate ligament of left knee, subsequent encounter
+64749 S83502S 1 Sprain of unsp cruciate ligament of left knee, sequela       Sprain of unspecified cruciate ligament of left knee, sequela
+64750 S83509  0 Sprain of unspecified cruciate ligament of unspecified knee  Sprain of unspecified cruciate ligament of unspecified knee
+64751 S83509A 1 Sprain of unsp cruciate ligament of unsp knee, init encntr   Sprain of unspecified cruciate ligament of unspecified knee, initial encounter
+64752 S83509D 1 Sprain of unsp cruciate ligament of unsp knee, subs encntr   Sprain of unspecified cruciate ligament of unspecified knee, subsequent encounter
+64753 S83509S 1 Sprain of unsp cruciate ligament of unsp knee, sequela       Sprain of unspecified cruciate ligament of unspecified knee, sequela
+64754 S8351   0 Sprain of anterior cruciate ligament of knee                 Sprain of anterior cruciate ligament of knee
+64755 S83511  0 Sprain of anterior cruciate ligament of right knee           Sprain of anterior cruciate ligament of right knee
+64756 S83511A 1 Sprain of anterior cruciate ligament of right knee, init     Sprain of anterior cruciate ligament of right knee, initial encounter
+64757 S83511D 1 Sprain of anterior cruciate ligament of right knee, subs     Sprain of anterior cruciate ligament of right knee, subsequent encounter
+64758 S83511S 1 Sprain of anterior cruciate ligament of right knee, sequela  Sprain of anterior cruciate ligament of right knee, sequela
+64759 S83512  0 Sprain of anterior cruciate ligament of left knee            Sprain of anterior cruciate ligament of left knee
+64760 S83512A 1 Sprain of anterior cruciate ligament of left knee, init      Sprain of anterior cruciate ligament of left knee, initial encounter
+64761 S83512D 1 Sprain of anterior cruciate ligament of left knee, subs      Sprain of anterior cruciate ligament of left knee, subsequent encounter
+64762 S83512S 1 Sprain of anterior cruciate ligament of left knee, sequela   Sprain of anterior cruciate ligament of left knee, sequela
+64763 S83519  0 Sprain of anterior cruciate ligament of unspecified knee     Sprain of anterior cruciate ligament of unspecified knee
+64764 S83519A 1 Sprain of anterior cruciate ligament of unsp knee, init      Sprain of anterior cruciate ligament of unspecified knee, initial encounter
+64765 S83519D 1 Sprain of anterior cruciate ligament of unsp knee, subs      Sprain of anterior cruciate ligament of unspecified knee, subsequent encounter
+64766 S83519S 1 Sprain of anterior cruciate ligament of unsp knee, sequela   Sprain of anterior cruciate ligament of unspecified knee, sequela
+64767 S8352   0 Sprain of posterior cruciate ligament of knee                Sprain of posterior cruciate ligament of knee
+64768 S83521  0 Sprain of posterior cruciate ligament of right knee          Sprain of posterior cruciate ligament of right knee
+64769 S83521A 1 Sprain of posterior cruciate ligament of right knee, init    Sprain of posterior cruciate ligament of right knee, initial encounter
+64770 S83521D 1 Sprain of posterior cruciate ligament of right knee, subs    Sprain of posterior cruciate ligament of right knee, subsequent encounter
+64771 S83521S 1 Sprain of posterior cruciate ligament of right knee, sequela Sprain of posterior cruciate ligament of right knee, sequela
+64772 S83522  0 Sprain of posterior cruciate ligament of left knee           Sprain of posterior cruciate ligament of left knee
+64773 S83522A 1 Sprain of posterior cruciate ligament of left knee, init     Sprain of posterior cruciate ligament of left knee, initial encounter
+64774 S83522D 1 Sprain of posterior cruciate ligament of left knee, subs     Sprain of posterior cruciate ligament of left knee, subsequent encounter
+64775 S83522S 1 Sprain of posterior cruciate ligament of left knee, sequela  Sprain of posterior cruciate ligament of left knee, sequela
+64776 S83529  0 Sprain of posterior cruciate ligament of unspecified knee    Sprain of posterior cruciate ligament of unspecified knee
+64777 S83529A 1 Sprain of posterior cruciate ligament of unsp knee, init     Sprain of posterior cruciate ligament of unspecified knee, initial encounter
+64778 S83529D 1 Sprain of posterior cruciate ligament of unsp knee, subs     Sprain of posterior cruciate ligament of unspecified knee, subsequent encounter
+64779 S83529S 1 Sprain of posterior cruciate ligament of unsp knee, sequela  Sprain of posterior cruciate ligament of unspecified knee, sequela
+64780 S836    0 Sprain of the superior tibiofibular joint and ligament       Sprain of the superior tibiofibular joint and ligament
+64781 S8360   0 Sprain of the superior tibiofibul joint and ligmt, unsp knee Sprain of the superior tibiofibular joint and ligament, unspecified knee
+64782 S8360XA 1 Sprain of super tibiofibul joint and ligmt, unsp knee, init  Sprain of the superior tibiofibular joint and ligament, unspecified knee, initial encounter
+64783 S8360XD 1 Sprain of super tibiofibul joint and ligmt, unsp knee, subs  Sprain of the superior tibiofibular joint and ligament, unspecified knee, subsequent encounter
+64784 S8360XS 1 Sprain of super tibiofibul joint and ligmt, unsp knee, sqla  Sprain of the superior tibiofibular joint and ligament, unspecified knee, sequela
+64785 S8361   0 Sprain of the superior tibiofibul joint and ligament, r knee Sprain of the superior tibiofibular joint and ligament, right knee
+64786 S8361XA 1 Sprain of the super tibiofibul joint and ligmt, r knee, init Sprain of the superior tibiofibular joint and ligament, right knee, initial encounter
+64787 S8361XD 1 Sprain of the super tibiofibul joint and ligmt, r knee, subs Sprain of the superior tibiofibular joint and ligament, right knee, subsequent encounter
+64788 S8361XS 1 Sprain of the super tibiofibul joint and ligmt, r knee, sqla Sprain of the superior tibiofibular joint and ligament, right knee, sequela
+64789 S8362   0 Sprain of the superior tibiofibul joint and ligament, l knee Sprain of the superior tibiofibular joint and ligament, left knee
+64790 S8362XA 1 Sprain of the super tibiofibul joint and ligmt, l knee, init Sprain of the superior tibiofibular joint and ligament, left knee, initial encounter
+64791 S8362XD 1 Sprain of the super tibiofibul joint and ligmt, l knee, subs Sprain of the superior tibiofibular joint and ligament, left knee, subsequent encounter
+64792 S8362XS 1 Sprain of the super tibiofibul joint and ligmt, l knee, sqla Sprain of the superior tibiofibular joint and ligament, left knee, sequela
+64793 S838    0 Sprain of other specified parts of knee                      Sprain of other specified parts of knee
+64794 S838X   0 Sprain of other specified parts of knee                      Sprain of other specified parts of knee
+64795 S838X1  0 Sprain of other specified parts of right knee                Sprain of other specified parts of right knee
+64796 S838X1A 1 Sprain of other specified parts of right knee, init encntr   Sprain of other specified parts of right knee, initial encounter
+64797 S838X1D 1 Sprain of other specified parts of right knee, subs encntr   Sprain of other specified parts of right knee, subsequent encounter
+64798 S838X1S 1 Sprain of other specified parts of right knee, sequela       Sprain of other specified parts of right knee, sequela
+64799 S838X2  0 Sprain of other specified parts of left knee                 Sprain of other specified parts of left knee
+64800 S838X2A 1 Sprain of other specified parts of left knee, init encntr    Sprain of other specified parts of left knee, initial encounter
+64801 S838X2D 1 Sprain of other specified parts of left knee, subs encntr    Sprain of other specified parts of left knee, subsequent encounter
+64802 S838X2S 1 Sprain of other specified parts of left knee, sequela        Sprain of other specified parts of left knee, sequela
+64803 S838X9  0 Sprain of other specified parts of unspecified knee          Sprain of other specified parts of unspecified knee
+64804 S838X9A 1 Sprain of oth parts of unspecified knee, init encntr         Sprain of other specified parts of unspecified knee, initial encounter
+64805 S838X9D 1 Sprain of oth parts of unspecified knee, subs encntr         Sprain of other specified parts of unspecified knee, subsequent encounter
+64806 S838X9S 1 Sprain of other specified parts of unspecified knee, sequela Sprain of other specified parts of unspecified knee, sequela
+64807 S839    0 Sprain of unspecified site of knee                           Sprain of unspecified site of knee
+64808 S8390   0 Sprain of unspecified site of unspecified knee               Sprain of unspecified site of unspecified knee
+64809 S8390XA 1 Sprain of unspecified site of unspecified knee, init encntr  Sprain of unspecified site of unspecified knee, initial encounter
+64810 S8390XD 1 Sprain of unspecified site of unspecified knee, subs encntr  Sprain of unspecified site of unspecified knee, subsequent encounter
+64811 S8390XS 1 Sprain of unspecified site of unspecified knee, sequela      Sprain of unspecified site of unspecified knee, sequela
+64812 S8391   0 Sprain of unspecified site of right knee                     Sprain of unspecified site of right knee
+64813 S8391XA 1 Sprain of unspecified site of right knee, initial encounter  Sprain of unspecified site of right knee, initial encounter
+64814 S8391XD 1 Sprain of unspecified site of right knee, subs encntr        Sprain of unspecified site of right knee, subsequent encounter
+64815 S8391XS 1 Sprain of unspecified site of right knee, sequela            Sprain of unspecified site of right knee, sequela
+64816 S8392   0 Sprain of unspecified site of left knee                      Sprain of unspecified site of left knee
+64817 S8392XA 1 Sprain of unspecified site of left knee, initial encounter   Sprain of unspecified site of left knee, initial encounter
+64818 S8392XD 1 Sprain of unspecified site of left knee, subs encntr         Sprain of unspecified site of left knee, subsequent encounter
+64819 S8392XS 1 Sprain of unspecified site of left knee, sequela             Sprain of unspecified site of left knee, sequela
+64820 S84     0 Injury of nerves at lower leg level                          Injury of nerves at lower leg level
+64821 S840    0 Injury of tibial nerve at lower leg level                    Injury of tibial nerve at lower leg level
+64822 S8400   0 Injury of tibial nerve at lower leg level, unspecified leg   Injury of tibial nerve at lower leg level, unspecified leg
+64823 S8400XA 1 Injury of tibial nerve at lower leg level, unsp leg, init    Injury of tibial nerve at lower leg level, unspecified leg, initial encounter
+64824 S8400XD 1 Injury of tibial nerve at lower leg level, unsp leg, subs    Injury of tibial nerve at lower leg level, unspecified leg, subsequent encounter
+64825 S8400XS 1 Injury of tibial nerve at lower leg level, unsp leg, sequela Injury of tibial nerve at lower leg level, unspecified leg, sequela
+64826 S8401   0 Injury of tibial nerve at lower leg level, right leg         Injury of tibial nerve at lower leg level, right leg
+64827 S8401XA 1 Injury of tibial nerve at lower leg level, right leg, init   Injury of tibial nerve at lower leg level, right leg, initial encounter
+64828 S8401XD 1 Injury of tibial nerve at lower leg level, right leg, subs   Injury of tibial nerve at lower leg level, right leg, subsequent encounter
+64829 S8401XS 1 Injury of tibial nrv at lower leg level, right leg, sequela  Injury of tibial nerve at lower leg level, right leg, sequela
+73266 T23751  0 Corrosion of third degree of right palm                      Corrosion of third degree of right palm
+73267 T23751A 1 Corrosion of third degree of right palm, initial encounter   Corrosion of third degree of right palm, initial encounter
+73268 T23751D 1 Corrosion of third degree of right palm, subs encntr         Corrosion of third degree of right palm, subsequent encounter
+73269 T23751S 1 Corrosion of third degree of right palm, sequela             Corrosion of third degree of right palm, sequela
+73270 T23752  0 Corrosion of third degree of left palm                       Corrosion of third degree of left palm
+73271 T23752A 1 Corrosion of third degree of left palm, initial encounter    Corrosion of third degree of left palm, initial encounter
+73272 T23752D 1 Corrosion of third degree of left palm, subsequent encounter Corrosion of third degree of left palm, subsequent encounter
+73273 T23752S 1 Corrosion of third degree of left palm, sequela              Corrosion of third degree of left palm, sequela
+73274 T23759  0 Corrosion of third degree of unspecified palm                Corrosion of third degree of unspecified palm
+73275 T23759A 1 Corrosion of third degree of unspecified palm, init encntr   Corrosion of third degree of unspecified palm, initial encounter
+73276 T23759D 1 Corrosion of third degree of unspecified palm, subs encntr   Corrosion of third degree of unspecified palm, subsequent encounter
+73277 T23759S 1 Corrosion of third degree of unspecified palm, sequela       Corrosion of third degree of unspecified palm, sequela
+73278 T2376   0 Corrosion of third degree of back of hand                    Corrosion of third degree of back of hand
+73279 T23761  0 Corrosion of third degree of back of right hand              Corrosion of third degree of back of right hand
+73280 T23761A 1 Corrosion of third degree of back of right hand, init encntr Corrosion of third degree of back of right hand, initial encounter
+73281 T23761D 1 Corrosion of third degree of back of right hand, subs encntr Corrosion of third degree of back of right hand, subsequent encounter
+73282 T23761S 1 Corrosion of third degree of back of right hand, sequela     Corrosion of third degree of back of right hand, sequela
+73283 T23762  0 Corrosion of third degree of back of left hand               Corrosion of third degree of back of left hand
+73284 T23762A 1 Corrosion of third degree of back of left hand, init encntr  Corrosion of third degree of back of left hand, initial encounter
+73285 T23762D 1 Corrosion of third degree of back of left hand, subs encntr  Corrosion of third degree of back of left hand, subsequent encounter
+73286 T23762S 1 Corrosion of third degree of back of left hand, sequela      Corrosion of third degree of back of left hand, sequela
+73287 T23769  0 Corrosion of third degree back of unspecified hand           Corrosion of third degree back of unspecified hand
+73288 T23769A 1 Corrosion of third degree back of unsp hand, init encntr     Corrosion of third degree back of unspecified hand, initial encounter
+73289 T23769D 1 Corrosion of third degree back of unsp hand, subs encntr     Corrosion of third degree back of unspecified hand, subsequent encounter
+73290 T23769S 1 Corrosion of third degree back of unspecified hand, sequela  Corrosion of third degree back of unspecified hand, sequela
+73291 T2377   0 Corrosion of third degree of wrist                           Corrosion of third degree of wrist
+73292 T23771  0 Corrosion of third degree of right wrist                     Corrosion of third degree of right wrist
+73293 T23771A 1 Corrosion of third degree of right wrist, initial encounter  Corrosion of third degree of right wrist, initial encounter
+73294 T23771D 1 Corrosion of third degree of right wrist, subs encntr        Corrosion of third degree of right wrist, subsequent encounter
+73295 T23771S 1 Corrosion of third degree of right wrist, sequela            Corrosion of third degree of right wrist, sequela
+73296 T23772  0 Corrosion of third degree of left wrist                      Corrosion of third degree of left wrist
+73297 T23772A 1 Corrosion of third degree of left wrist, initial encounter   Corrosion of third degree of left wrist, initial encounter
+73298 T23772D 1 Corrosion of third degree of left wrist, subs encntr         Corrosion of third degree of left wrist, subsequent encounter
+73299 T23772S 1 Corrosion of third degree of left wrist, sequela             Corrosion of third degree of left wrist, sequela
+73300 T23779  0 Corrosion of third degree of unspecified wrist               Corrosion of third degree of unspecified wrist
+73301 T23779A 1 Corrosion of third degree of unspecified wrist, init encntr  Corrosion of third degree of unspecified wrist, initial encounter
+73302 T23779D 1 Corrosion of third degree of unspecified wrist, subs encntr  Corrosion of third degree of unspecified wrist, subsequent encounter
+73303 T23779S 1 Corrosion of third degree of unspecified wrist, sequela      Corrosion of third degree of unspecified wrist, sequela
+73304 T2379   0 Corrosion of 3rd deg mu sites of wrist and hand              Corrosion of third degree of multiple sites of wrist and hand
+73305 T23791  0 Corrosion of 3rd deg mu sites of right wrist and hand        Corrosion of third degree of multiple sites of right wrist and hand
+73306 T23791A 1 Corrosion of 3rd deg mu sites of right wrist and hand, init  Corrosion of third degree of multiple sites of right wrist and hand, initial encounter
+73307 T23791D 1 Corrosion of 3rd deg mu sites of right wrist and hand, subs  Corrosion of third degree of multiple sites of right wrist and hand, subsequent encounter
+73308 T23791S 1 Corrosion of 3rd deg mu sites of right wrs/hnd, sequela      Corrosion of third degree of multiple sites of right wrist and hand, sequela
+73309 T23792  0 Corrosion of 3rd deg mu sites of left wrist and hand         Corrosion of third degree of multiple sites of left wrist and hand
+73310 T23792A 1 Corrosion of 3rd deg mu sites of left wrist and hand, init   Corrosion of third degree of multiple sites of left wrist and hand, initial encounter
+73311 T23792D 1 Corrosion of 3rd deg mu sites of left wrist and hand, subs   Corrosion of third degree of multiple sites of left wrist and hand, subsequent encounter
+73312 T23792S 1 Corrosion of 3rd deg mu sites of left wrs/hnd, sequela       Corrosion of third degree of multiple sites of left wrist and hand, sequela
+73313 T23799  0 Corrosion of 3rd deg mu sites of unsp wrist and hand         Corrosion of third degree of multiple sites of unspecified wrist and hand
+73314 T23799A 1 Corrosion of 3rd deg mu sites of unsp wrist and hand, init   Corrosion of third degree of multiple sites of unspecified wrist and hand, initial encounter
+73315 T23799D 1 Corrosion of 3rd deg mu sites of unsp wrist and hand, subs   Corrosion of third degree of multiple sites of unspecified wrist and hand, subsequent encounter
+73316 T23799S 1 Corrosion of 3rd deg mu sites of unsp wrs/hnd, sequela       Corrosion of third degree of multiple sites of unspecified wrist and hand, sequela
+73317 T24     0 Burn and corrosion of lower limb, except ankle and foot      Burn and corrosion of lower limb, except ankle and foot
+73318 T240    0 Burn of unsp degree of lower limb, except ankle and foot     Burn of unspecified degree of lower limb, except ankle and foot
+73319 T2400   0 Burn of unsp degree of unsp site lower limb, except ank/ft   Burn of unspecified degree of unspecified site of lower limb, except ankle and foot
+73320 T24001  0 Burn unsp deg of unsp site right lower limb, except ank/ft   Burn of unspecified degree of unspecified site of right lower limb, except ankle and foot
+73321 T24001A 1 Burn unsp deg of unsp site right lower limb, ex ank/ft, init Burn of unspecified degree of unspecified site of right lower limb, except ankle and foot, initial encounter
+73322 T24001D 1 Burn unsp deg of unsp site right lower limb, ex ank/ft, subs Burn of unspecified degree of unspecified site of right lower limb, except ankle and foot, subsequent encounter
+73323 T24001S 1 Burn unsp deg of unsp site right lower limb, ex ank/ft, sqla Burn of unspecified degree of unspecified site of right lower limb, except ankle and foot, sequela
+73324 T24002  0 Burn unsp degree of unsp site left lower limb, except ank/ft Burn of unspecified degree of unspecified site of left lower limb, except ankle and foot
+73325 T24002A 1 Burn unsp deg of unsp site left lower limb, ex ank/ft, init  Burn of unspecified degree of unspecified site of left lower limb, except ankle and foot, initial encounter
+73326 T24002D 1 Burn unsp deg of unsp site left lower limb, ex ank/ft, subs  Burn of unspecified degree of unspecified site of left lower limb, except ankle and foot, subsequent encounter
+73327 T24002S 1 Burn unsp deg of unsp site left lower limb, ex ank/ft, sqla  Burn of unspecified degree of unspecified site of left lower limb, except ankle and foot, sequela
+73328 T24009  0 Burn unsp degree of unsp site unsp lower limb, except ank/ft Burn of unspecified degree of unspecified site of unspecified lower limb, except ankle and foot
+73329 T24009A 1 Burn unsp deg of unsp site unsp lower limb, ex ank/ft, init  Burn of unspecified degree of unspecified site of unspecified lower limb, except ankle and foot, initial encounter
+73330 T24009D 1 Burn unsp deg of unsp site unsp lower limb, ex ank/ft, subs  Burn of unspecified degree of unspecified site of unspecified lower limb, except ankle and foot, subsequent encounter
+73331 T24009S 1 Burn unsp deg of unsp site unsp lower limb, ex ank/ft, sqla  Burn of unspecified degree of unspecified site of unspecified lower limb, except ankle and foot, sequela
+73332 T2401   0 Burn of unspecified degree of thigh                          Burn of unspecified degree of thigh
+73333 T24011  0 Burn of unspecified degree of right thigh                    Burn of unspecified degree of right thigh
+73334 T24011A 1 Burn of unspecified degree of right thigh, initial encounter Burn of unspecified degree of right thigh, initial encounter
+73335 T24011D 1 Burn of unspecified degree of right thigh, subs encntr       Burn of unspecified degree of right thigh, subsequent encounter
+73336 T24011S 1 Burn of unspecified degree of right thigh, sequela           Burn of unspecified degree of right thigh, sequela
+73337 T24012  0 Burn of unspecified degree of left thigh                     Burn of unspecified degree of left thigh
+73338 T24012A 1 Burn of unspecified degree of left thigh, initial encounter  Burn of unspecified degree of left thigh, initial encounter
+73339 T24012D 1 Burn of unspecified degree of left thigh, subs encntr        Burn of unspecified degree of left thigh, subsequent encounter
+73340 T24012S 1 Burn of unspecified degree of left thigh, sequela            Burn of unspecified degree of left thigh, sequela
+73341 T24019  0 Burn of unspecified degree of unspecified thigh              Burn of unspecified degree of unspecified thigh
+73342 T24019A 1 Burn of unspecified degree of unspecified thigh, init encntr Burn of unspecified degree of unspecified thigh, initial encounter
+73343 T24019D 1 Burn of unspecified degree of unspecified thigh, subs encntr Burn of unspecified degree of unspecified thigh, subsequent encounter
+73344 T24019S 1 Burn of unspecified degree of unspecified thigh, sequela     Burn of unspecified degree of unspecified thigh, sequela
+73345 T2402   0 Burn of unspecified degree of knee                           Burn of unspecified degree of knee
+73346 T24021  0 Burn of unspecified degree of right knee                     Burn of unspecified degree of right knee
+73347 T24021A 1 Burn of unspecified degree of right knee, initial encounter  Burn of unspecified degree of right knee, initial encounter
+73348 T24021D 1 Burn of unspecified degree of right knee, subs encntr        Burn of unspecified degree of right knee, subsequent encounter
+73349 T24021S 1 Burn of unspecified degree of right knee, sequela            Burn of unspecified degree of right knee, sequela
+73350 T24022  0 Burn of unspecified degree of left knee                      Burn of unspecified degree of left knee
+73351 T24022A 1 Burn of unspecified degree of left knee, initial encounter   Burn of unspecified degree of left knee, initial encounter
+73352 T24022D 1 Burn of unspecified degree of left knee, subs encntr         Burn of unspecified degree of left knee, subsequent encounter
+73353 T24022S 1 Burn of unspecified degree of left knee, sequela             Burn of unspecified degree of left knee, sequela
+73354 T24029  0 Burn of unspecified degree of unspecified knee               Burn of unspecified degree of unspecified knee
+73355 T24029A 1 Burn of unspecified degree of unspecified knee, init encntr  Burn of unspecified degree of unspecified knee, initial encounter
+73356 T24029D 1 Burn of unspecified degree of unspecified knee, subs encntr  Burn of unspecified degree of unspecified knee, subsequent encounter
+73357 T24029S 1 Burn of unspecified degree of unspecified knee, sequela      Burn of unspecified degree of unspecified knee, sequela
+73358 T2403   0 Burn of unspecified degree of lower leg                      Burn of unspecified degree of lower leg
+73359 T24031  0 Burn of unspecified degree of right lower leg                Burn of unspecified degree of right lower leg
+73360 T24031A 1 Burn of unspecified degree of right lower leg, init encntr   Burn of unspecified degree of right lower leg, initial encounter
+73361 T24031D 1 Burn of unspecified degree of right lower leg, subs encntr   Burn of unspecified degree of right lower leg, subsequent encounter
+73362 T24031S 1 Burn of unspecified degree of right lower leg, sequela       Burn of unspecified degree of right lower leg, sequela
+73363 T24032  0 Burn of unspecified degree of left lower leg                 Burn of unspecified degree of left lower leg
+73364 T24032A 1 Burn of unspecified degree of left lower leg, init encntr    Burn of unspecified degree of left lower leg, initial encounter
+73365 T24032D 1 Burn of unspecified degree of left lower leg, subs encntr    Burn of unspecified degree of left lower leg, subsequent encounter
+73366 T24032S 1 Burn of unspecified degree of left lower leg, sequela        Burn of unspecified degree of left lower leg, sequela
+73367 T24039  0 Burn of unspecified degree of unspecified lower leg          Burn of unspecified degree of unspecified lower leg
+73368 T24039A 1 Burn of unsp degree of unspecified lower leg, init encntr    Burn of unspecified degree of unspecified lower leg, initial encounter
+73369 T24039D 1 Burn of unsp degree of unspecified lower leg, subs encntr    Burn of unspecified degree of unspecified lower leg, subsequent encounter
+73370 T24039S 1 Burn of unspecified degree of unspecified lower leg, sequela Burn of unspecified degree of unspecified lower leg, sequela
+73371 T2409   0 Burn of unsp deg mult sites of lower limb, except ank/ft     Burn of unspecified degree of multiple sites of lower limb, except ankle and foot
+73372 T24091  0 Burn unsp deg mult sites of right lower limb, except ank/ft  Burn of unspecified degree of multiple sites of right lower limb, except ankle and foot
+73373 T24091A 1 Burn unsp deg mult sites of right low limb, ex ank/ft, init  Burn of unspecified degree of multiple sites of right lower limb, except ankle and foot, initial encounter
+73374 T24091D 1 Burn unsp deg mult sites of right low limb, ex ank/ft, subs  Burn of unspecified degree of multiple sites of right lower limb, except ankle and foot, subsequent encounter
+73375 T24091S 1 Burn unsp deg mult sites of right low limb, ex ank/ft, sqla  Burn of unspecified degree of multiple sites of right lower limb, except ankle and foot, sequela
+73376 T24092  0 Burn unsp deg mult sites of left lower limb, except ank/ft   Burn of unspecified degree of multiple sites of left lower limb, except ankle and foot
+73377 T24092A 1 Burn unsp deg mult sites of left lower limb, ex ank/ft, init Burn of unspecified degree of multiple sites of left lower limb, except ankle and foot, initial encounter
+73378 T24092D 1 Burn unsp deg mult sites of left lower limb, ex ank/ft, subs Burn of unspecified degree of multiple sites of left lower limb, except ankle and foot, subsequent encounter
+73379 T24092S 1 Burn unsp deg mult sites of left lower limb, ex ank/ft, sqla Burn of unspecified degree of multiple sites of left lower limb, except ankle and foot, sequela
+73380 T24099  0 Burn unsp deg mult sites of unsp lower limb, except ank/ft   Burn of unspecified degree of multiple sites of unspecified lower limb, except ankle and foot
+73381 T24099A 1 Burn unsp deg mult sites of unsp lower limb, ex ank/ft, init Burn of unspecified degree of multiple sites of unspecified lower limb, except ankle and foot, initial encounter
+73382 T24099D 1 Burn unsp deg mult sites of unsp lower limb, ex ank/ft, subs Burn of unspecified degree of multiple sites of unspecified lower limb, except ankle and foot, subsequent encounter
+73383 T24099S 1 Burn unsp deg mult sites of unsp lower limb, ex ank/ft, sqla Burn of unspecified degree of multiple sites of unspecified lower limb, except ankle and foot, sequela
+73384 T241    0 Burn of first degree of lower limb, except ankle and foot    Burn of first degree of lower limb, except ankle and foot
+73385 T2410   0 Burn of first degree of unsp site lower limb, except ank/ft  Burn of first degree of unspecified site of lower limb, except ankle and foot
+73386 T24101  0 Burn first deg of unsp site right lower limb, except ank/ft  Burn of first degree of unspecified site of right lower limb, except ankle and foot
+73387 T24101A 1 Burn 1st deg of unsp site right lower limb, ex ank/ft, init  Burn of first degree of unspecified site of right lower limb, except ankle and foot, initial encounter
+73388 T24101D 1 Burn 1st deg of unsp site right lower limb, ex ank/ft, subs  Burn of first degree of unspecified site of right lower limb, except ankle and foot, subsequent encounter
+73389 T24101S 1 Burn 1st deg of unsp site right lower limb, ex ank/ft, sqla  Burn of first degree of unspecified site of right lower limb, except ankle and foot, sequela
+73390 T24102  0 Burn first deg of unsp site left lower limb, except ank/ft   Burn of first degree of unspecified site of left lower limb, except ankle and foot
+73391 T24102A 1 Burn first deg of unsp site left lower limb, ex ank/ft, init Burn of first degree of unspecified site of left lower limb, except ankle and foot, initial encounter
+73392 T24102D 1 Burn first deg of unsp site left lower limb, ex ank/ft, subs Burn of first degree of unspecified site of left lower limb, except ankle and foot, subsequent encounter
+73393 T24102S 1 Burn first deg of unsp site left lower limb, ex ank/ft, sqla Burn of first degree of unspecified site of left lower limb, except ankle and foot, sequela
+73394 T24109  0 Burn first deg of unsp site unsp lower limb, except ank/ft   Burn of first degree of unspecified site of unspecified lower limb, except ankle and foot
+73395 T24109A 1 Burn first deg of unsp site unsp lower limb, ex ank/ft, init Burn of first degree of unspecified site of unspecified lower limb, except ankle and foot, initial encounter
+73396 T24109D 1 Burn first deg of unsp site unsp lower limb, ex ank/ft, subs Burn of first degree of unspecified site of unspecified lower limb, except ankle and foot, subsequent encounter
+73397 T24109S 1 Burn first deg of unsp site unsp lower limb, ex ank/ft, sqla Burn of first degree of unspecified site of unspecified lower limb, except ankle and foot, sequela
+73398 T2411   0 Burn of first degree of thigh                                Burn of first degree of thigh
+73399 T24111  0 Burn of first degree of right thigh                          Burn of first degree of right thigh
+73400 T24111A 1 Burn of first degree of right thigh, initial encounter       Burn of first degree of right thigh, initial encounter
+73401 T24111D 1 Burn of first degree of right thigh, subsequent encounter    Burn of first degree of right thigh, subsequent encounter
+73402 T24111S 1 Burn of first degree of right thigh, sequela                 Burn of first degree of right thigh, sequela
+73403 T24112  0 Burn of first degree of left thigh                           Burn of first degree of left thigh
+73404 T24112A 1 Burn of first degree of left thigh, initial encounter        Burn of first degree of left thigh, initial encounter
+73405 T24112D 1 Burn of first degree of left thigh, subsequent encounter     Burn of first degree of left thigh, subsequent encounter
+73406 T24112S 1 Burn of first degree of left thigh, sequela                  Burn of first degree of left thigh, sequela
+73407 T24119  0 Burn of first degree of unspecified thigh                    Burn of first degree of unspecified thigh
+73408 T24119A 1 Burn of first degree of unspecified thigh, initial encounter Burn of first degree of unspecified thigh, initial encounter
+73409 T24119D 1 Burn of first degree of unspecified thigh, subs encntr       Burn of first degree of unspecified thigh, subsequent encounter
+73410 T24119S 1 Burn of first degree of unspecified thigh, sequela           Burn of first degree of unspecified thigh, sequela
+73411 T2412   0 Burn of first degree of knee                                 Burn of first degree of knee
+73412 T24121  0 Burn of first degree of right knee                           Burn of first degree of right knee
+73413 T24121A 1 Burn of first degree of right knee, initial encounter        Burn of first degree of right knee, initial encounter
+73414 T24121D 1 Burn of first degree of right knee, subsequent encounter     Burn of first degree of right knee, subsequent encounter
+73415 T24121S 1 Burn of first degree of right knee, sequela                  Burn of first degree of right knee, sequela
+73416 T24122  0 Burn of first degree of left knee                            Burn of first degree of left knee
+73417 T24122A 1 Burn of first degree of left knee, initial encounter         Burn of first degree of left knee, initial encounter
+73418 T24122D 1 Burn of first degree of left knee, subsequent encounter      Burn of first degree of left knee, subsequent encounter
+73419 T24122S 1 Burn of first degree of left knee, sequela                   Burn of first degree of left knee, sequela
+73420 T24129  0 Burn of first degree of unspecified knee                     Burn of first degree of unspecified knee
+73421 T24129A 1 Burn of first degree of unspecified knee, initial encounter  Burn of first degree of unspecified knee, initial encounter
+73422 T24129D 1 Burn of first degree of unspecified knee, subs encntr        Burn of first degree of unspecified knee, subsequent encounter
+73423 T24129S 1 Burn of first degree of unspecified knee, sequela            Burn of first degree of unspecified knee, sequela
+73424 T2413   0 Burn of first degree of lower leg                            Burn of first degree of lower leg
+73425 T24131  0 Burn of first degree of right lower leg                      Burn of first degree of right lower leg
+73426 T24131A 1 Burn of first degree of right lower leg, initial encounter   Burn of first degree of right lower leg, initial encounter
+73427 T24131D 1 Burn of first degree of right lower leg, subs encntr         Burn of first degree of right lower leg, subsequent encounter
+73428 T24131S 1 Burn of first degree of right lower leg, sequela             Burn of first degree of right lower leg, sequela
+73429 T24132  0 Burn of first degree of left lower leg                       Burn of first degree of left lower leg
+73430 T24132A 1 Burn of first degree of left lower leg, initial encounter    Burn of first degree of left lower leg, initial encounter
+73431 T24132D 1 Burn of first degree of left lower leg, subsequent encounter Burn of first degree of left lower leg, subsequent encounter
+73432 T24132S 1 Burn of first degree of left lower leg, sequela              Burn of first degree of left lower leg, sequela
+73433 T24139  0 Burn of first degree of unspecified lower leg                Burn of first degree of unspecified lower leg
+73434 T24139A 1 Burn of first degree of unspecified lower leg, init encntr   Burn of first degree of unspecified lower leg, initial encounter
+73435 T24139D 1 Burn of first degree of unspecified lower leg, subs encntr   Burn of first degree of unspecified lower leg, subsequent encounter
+73436 T24139S 1 Burn of first degree of unspecified lower leg, sequela       Burn of first degree of unspecified lower leg, sequela
+73437 T2419   0 Burn of first deg mult sites of lower limb, except ank/ft    Burn of first degree of multiple sites of lower limb, except ankle and foot
+73438 T24191  0 Burn first deg mult sites of right lower limb, except ank/ft Burn of first degree of multiple sites of right lower limb, except ankle and foot
+73439 T24191A 1 Burn 1st deg mult sites of right lower limb, ex ank/ft, init Burn of first degree of multiple sites of right lower limb, except ankle and foot, initial encounter
+73440 T24191D 1 Burn 1st deg mult sites of right lower limb, ex ank/ft, subs Burn of first degree of multiple sites of right lower limb, except ankle and foot, subsequent encounter
+73441 T24191S 1 Burn 1st deg mult sites of right lower limb, ex ank/ft, sqla Burn of first degree of multiple sites of right lower limb, except ankle and foot, sequela
+73442 T24192  0 Burn first deg mult sites of left lower limb, except ank/ft  Burn of first degree of multiple sites of left lower limb, except ankle and foot
+73443 T24192A 1 Burn 1st deg mult sites of left lower limb, ex ank/ft, init  Burn of first degree of multiple sites of left lower limb, except ankle and foot, initial encounter
+73444 T24192D 1 Burn 1st deg mult sites of left lower limb, ex ank/ft, subs  Burn of first degree of multiple sites of left lower limb, except ankle and foot, subsequent encounter
+73445 T24192S 1 Burn 1st deg mult sites of left lower limb, ex ank/ft, sqla  Burn of first degree of multiple sites of left lower limb, except ankle and foot, sequela
+73446 T24199  0 Burn first deg mult sites of unsp lower limb, except ank/ft  Burn of first degree of multiple sites of unspecified lower limb, except ankle and foot
+73447 T24199A 1 Burn 1st deg mult sites of unsp lower limb, ex ank/ft, init  Burn of first degree of multiple sites of unspecified lower limb, except ankle and foot, initial encounter
+73448 T24199D 1 Burn 1st deg mult sites of unsp lower limb, ex ank/ft, subs  Burn of first degree of multiple sites of unspecified lower limb, except ankle and foot, subsequent encounter
+73449 T24199S 1 Burn 1st deg mult sites of unsp lower limb, ex ank/ft, sqla  Burn of first degree of multiple sites of unspecified lower limb, except ankle and foot, sequela
+73450 T242    0 Burn of second degree of lower limb, except ankle and foot   Burn of second degree of lower limb, except ankle and foot
+73451 T2420   0 Burn of second degree of unsp site lower limb, except ank/ft Burn of second degree of unspecified site of lower limb, except ankle and foot
+73452 T24201  0 Burn second deg of unsp site right lower limb, except ank/ft Burn of second degree of unspecified site of right lower limb, except ankle and foot
+73453 T24201A 1 Burn 2nd deg of unsp site right lower limb, ex ank/ft, init  Burn of second degree of unspecified site of right lower limb, except ankle and foot, initial encounter
+73454 T24201D 1 Burn 2nd deg of unsp site right lower limb, ex ank/ft, subs  Burn of second degree of unspecified site of right lower limb, except ankle and foot, subsequent encounter
+73455 T24201S 1 Burn 2nd deg of unsp site right lower limb, ex ank/ft, sqla  Burn of second degree of unspecified site of right lower limb, except ankle and foot, sequela
+73456 T24202  0 Burn second deg of unsp site left lower limb, except ank/ft  Burn of second degree of unspecified site of left lower limb, except ankle and foot
+73457 T24202A 1 Burn 2nd deg of unsp site left lower limb, ex ank/ft, init   Burn of second degree of unspecified site of left lower limb, except ankle and foot, initial encounter
+73458 T24202D 1 Burn 2nd deg of unsp site left lower limb, ex ank/ft, subs   Burn of second degree of unspecified site of left lower limb, except ankle and foot, subsequent encounter
+73459 T24202S 1 Burn 2nd deg of unsp site left lower limb, ex ank/ft, sqla   Burn of second degree of unspecified site of left lower limb, except ankle and foot, sequela
+73460 T24209  0 Burn second deg of unsp site unsp lower limb, except ank/ft  Burn of second degree of unspecified site of unspecified lower limb, except ankle and foot
+73461 T24209A 1 Burn 2nd deg of unsp site unsp lower limb, ex ank/ft, init   Burn of second degree of unspecified site of unspecified lower limb, except ankle and foot, initial encounter
+73462 T24209D 1 Burn 2nd deg of unsp site unsp lower limb, ex ank/ft, subs   Burn of second degree of unspecified site of unspecified lower limb, except ankle and foot, subsequent encounter
+73463 T24209S 1 Burn 2nd deg of unsp site unsp lower limb, ex ank/ft, sqla   Burn of second degree of unspecified site of unspecified lower limb, except ankle and foot, sequela
+73464 T2421   0 Burn of second degree of thigh                               Burn of second degree of thigh
+73465 T24211  0 Burn of second degree of right thigh                         Burn of second degree of right thigh
+73466 T24211A 1 Burn of second degree of right thigh, initial encounter      Burn of second degree of right thigh, initial encounter
+73467 T24211D 1 Burn of second degree of right thigh, subsequent encounter   Burn of second degree of right thigh, subsequent encounter
+73468 T24211S 1 Burn of second degree of right thigh, sequela                Burn of second degree of right thigh, sequela
+73469 T24212  0 Burn of second degree of left thigh                          Burn of second degree of left thigh
+73470 T24212A 1 Burn of second degree of left thigh, initial encounter       Burn of second degree of left thigh, initial encounter
+73471 T24212D 1 Burn of second degree of left thigh, subsequent encounter    Burn of second degree of left thigh, subsequent encounter
+73472 T24212S 1 Burn of second degree of left thigh, sequela                 Burn of second degree of left thigh, sequela
+73473 T24219  0 Burn of second degree of unspecified thigh                   Burn of second degree of unspecified thigh
+73474 T24219A 1 Burn of second degree of unspecified thigh, init encntr      Burn of second degree of unspecified thigh, initial encounter
+73475 T24219D 1 Burn of second degree of unspecified thigh, subs encntr      Burn of second degree of unspecified thigh, subsequent encounter
+73476 T24219S 1 Burn of second degree of unspecified thigh, sequela          Burn of second degree of unspecified thigh, sequela
+73477 T2422   0 Burn of second degree of knee                                Burn of second degree of knee
+73478 T24221  0 Burn of second degree of right knee                          Burn of second degree of right knee
+73479 T24221A 1 Burn of second degree of right knee, initial encounter       Burn of second degree of right knee, initial encounter
+73480 T24221D 1 Burn of second degree of right knee, subsequent encounter    Burn of second degree of right knee, subsequent encounter
+73481 T24221S 1 Burn of second degree of right knee, sequela                 Burn of second degree of right knee, sequela
+73482 T24222  0 Burn of second degree of left knee                           Burn of second degree of left knee
+73483 T24222A 1 Burn of second degree of left knee, initial encounter        Burn of second degree of left knee, initial encounter
+73484 T24222D 1 Burn of second degree of left knee, subsequent encounter     Burn of second degree of left knee, subsequent encounter
+73485 T24222S 1 Burn of second degree of left knee, sequela                  Burn of second degree of left knee, sequela
+73486 T24229  0 Burn of second degree of unspecified knee                    Burn of second degree of unspecified knee
+73487 T24229A 1 Burn of second degree of unspecified knee, initial encounter Burn of second degree of unspecified knee, initial encounter
+73488 T24229D 1 Burn of second degree of unspecified knee, subs encntr       Burn of second degree of unspecified knee, subsequent encounter
+73489 T24229S 1 Burn of second degree of unspecified knee, sequela           Burn of second degree of unspecified knee, sequela
+73490 T2423   0 Burn of second degree of lower leg                           Burn of second degree of lower leg
+73491 T24231  0 Burn of second degree of right lower leg                     Burn of second degree of right lower leg
+73492 T24231A 1 Burn of second degree of right lower leg, initial encounter  Burn of second degree of right lower leg, initial encounter
+73493 T24231D 1 Burn of second degree of right lower leg, subs encntr        Burn of second degree of right lower leg, subsequent encounter
+73494 T24231S 1 Burn of second degree of right lower leg, sequela            Burn of second degree of right lower leg, sequela
+73495 T24232  0 Burn of second degree of left lower leg                      Burn of second degree of left lower leg
+73496 T24232A 1 Burn of second degree of left lower leg, initial encounter   Burn of second degree of left lower leg, initial encounter
+73497 T24232D 1 Burn of second degree of left lower leg, subs encntr         Burn of second degree of left lower leg, subsequent encounter
+73498 T24232S 1 Burn of second degree of left lower leg, sequela             Burn of second degree of left lower leg, sequela
+73499 T24239  0 Burn of second degree of unspecified lower leg               Burn of second degree of unspecified lower leg
+73500 T24239A 1 Burn of second degree of unspecified lower leg, init encntr  Burn of second degree of unspecified lower leg, initial encounter
+73501 T24239D 1 Burn of second degree of unspecified lower leg, subs encntr  Burn of second degree of unspecified lower leg, subsequent encounter
+73502 T24239S 1 Burn of second degree of unspecified lower leg, sequela      Burn of second degree of unspecified lower leg, sequela
+73503 T2429   0 Burn of 2nd deg mul sites of lower limb, except ank/ft       Burn of second degree of multiple sites of lower limb, except ankle and foot
+73504 T24291  0 Burn of 2nd deg mul sites of right lower limb, except ank/ft Burn of second degree of multiple sites of right lower limb, except ankle and foot
+73505 T24291A 1 Burn 2nd deg mul sites of right lower limb, ex ank/ft, init  Burn of second degree of multiple sites of right lower limb, except ankle and foot, initial encounter
+73506 T24291D 1 Burn 2nd deg mul sites of right lower limb, ex ank/ft, subs  Burn of second degree of multiple sites of right lower limb, except ankle and foot, subsequent encounter
+73507 T24291S 1 Burn 2nd deg mul sites of right lower limb, ex ank/ft, sqla  Burn of second degree of multiple sites of right lower limb, except ankle and foot, sequela
+73508 T24292  0 Burn of 2nd deg mul sites of left lower limb, except ank/ft  Burn of second degree of multiple sites of left lower limb, except ankle and foot
+73509 T24292A 1 Burn 2nd deg mul sites of left lower limb, ex ank/ft, init   Burn of second degree of multiple sites of left lower limb, except ankle and foot, initial encounter
+73510 T24292D 1 Burn 2nd deg mul sites of left lower limb, ex ank/ft, subs   Burn of second degree of multiple sites of left lower limb, except ankle and foot, subsequent encounter
+73511 T24292S 1 Burn 2nd deg mul sites of left lower limb, ex ank/ft, sqla   Burn of second degree of multiple sites of left lower limb, except ankle and foot, sequela
+73512 T24299  0 Burn of 2nd deg mul sites of unsp lower limb, except ank/ft  Burn of second degree of multiple sites of unspecified lower limb, except ankle and foot
+73513 T24299A 1 Burn 2nd deg mul sites of unsp lower limb, ex ank/ft, init   Burn of second degree of multiple sites of unspecified lower limb, except ankle and foot, initial encounter
+73514 T24299D 1 Burn 2nd deg mul sites of unsp lower limb, ex ank/ft, subs   Burn of second degree of multiple sites of unspecified lower limb, except ankle and foot, subsequent encounter
+73515 T24299S 1 Burn 2nd deg mul sites of unsp lower limb, ex ank/ft, sqla   Burn of second degree of multiple sites of unspecified lower limb, except ankle and foot, sequela
+73516 T243    0 Burn of third degree of lower limb, except ankle and foot    Burn of third degree of lower limb, except ankle and foot
+73517 T2430   0 Burn of third degree of unsp site lower limb, except ank/ft  Burn of third degree of unspecified site of lower limb, except ankle and foot
+73518 T24301  0 Burn third deg of unsp site right lower limb, except ank/ft  Burn of third degree of unspecified site of right lower limb, except ankle and foot
+73519 T24301A 1 Burn third deg of unsp site right low limb, ex ank/ft, init  Burn of third degree of unspecified site of right lower limb, except ankle and foot, initial encounter
+73520 T24301D 1 Burn third deg of unsp site right low limb, ex ank/ft, subs  Burn of third degree of unspecified site of right lower limb, except ankle and foot, subsequent encounter
+73521 T24301S 1 Burn third deg of unsp site right low limb, ex ank/ft, sqla  Burn of third degree of unspecified site of right lower limb, except ankle and foot, sequela
+73522 T24302  0 Burn third deg of unsp site left lower limb, except ank/ft   Burn of third degree of unspecified site of left lower limb, except ankle and foot
+73523 T24302A 1 Burn third deg of unsp site left lower limb, ex ank/ft, init Burn of third degree of unspecified site of left lower limb, except ankle and foot, initial encounter
+73524 T24302D 1 Burn third deg of unsp site left lower limb, ex ank/ft, subs Burn of third degree of unspecified site of left lower limb, except ankle and foot, subsequent encounter
+73525 T24302S 1 Burn third deg of unsp site left lower limb, ex ank/ft, sqla Burn of third degree of unspecified site of left lower limb, except ankle and foot, sequela
+73526 T24309  0 Burn third deg of unsp site unsp lower limb, except ank/ft   Burn of third degree of unspecified site of unspecified lower limb, except ankle and foot
+73527 T24309A 1 Burn third deg of unsp site unsp lower limb, ex ank/ft, init Burn of third degree of unspecified site of unspecified lower limb, except ankle and foot, initial encounter
+73528 T24309D 1 Burn third deg of unsp site unsp lower limb, ex ank/ft, subs Burn of third degree of unspecified site of unspecified lower limb, except ankle and foot, subsequent encounter
+73529 T24309S 1 Burn third deg of unsp site unsp lower limb, ex ank/ft, sqla Burn of third degree of unspecified site of unspecified lower limb, except ankle and foot, sequela
+73530 T2431   0 Burn of third degree of thigh                                Burn of third degree of thigh
+73531 T24311  0 Burn of third degree of right thigh                          Burn of third degree of right thigh
+73532 T24311A 1 Burn of third degree of right thigh, initial encounter       Burn of third degree of right thigh, initial encounter
+73533 T24311D 1 Burn of third degree of right thigh, subsequent encounter    Burn of third degree of right thigh, subsequent encounter
+73534 T24311S 1 Burn of third degree of right thigh, sequela                 Burn of third degree of right thigh, sequela
+73535 T24312  0 Burn of third degree of left thigh                           Burn of third degree of left thigh
+73536 T24312A 1 Burn of third degree of left thigh, initial encounter        Burn of third degree of left thigh, initial encounter
+73537 T24312D 1 Burn of third degree of left thigh, subsequent encounter     Burn of third degree of left thigh, subsequent encounter
+73538 T24312S 1 Burn of third degree of left thigh, sequela                  Burn of third degree of left thigh, sequela
+73539 T24319  0 Burn of third degree of unspecified thigh                    Burn of third degree of unspecified thigh
+73540 T24319A 1 Burn of third degree of unspecified thigh, initial encounter Burn of third degree of unspecified thigh, initial encounter
+73541 T24319D 1 Burn of third degree of unspecified thigh, subs encntr       Burn of third degree of unspecified thigh, subsequent encounter
+73542 T24319S 1 Burn of third degree of unspecified thigh, sequela           Burn of third degree of unspecified thigh, sequela
+73543 T2432   0 Burn of third degree of knee                                 Burn of third degree of knee
+73544 T24321  0 Burn of third degree of right knee                           Burn of third degree of right knee
+73545 T24321A 1 Burn of third degree of right knee, initial encounter        Burn of third degree of right knee, initial encounter
+73546 T24321D 1 Burn of third degree of right knee, subsequent encounter     Burn of third degree of right knee, subsequent encounter
+73547 T24321S 1 Burn of third degree of right knee, sequela                  Burn of third degree of right knee, sequela
+73548 T24322  0 Burn of third degree of left knee                            Burn of third degree of left knee
+73549 T24322A 1 Burn of third degree of left knee, initial encounter         Burn of third degree of left knee, initial encounter
+73550 T24322D 1 Burn of third degree of left knee, subsequent encounter      Burn of third degree of left knee, subsequent encounter
+73551 T24322S 1 Burn of third degree of left knee, sequela                   Burn of third degree of left knee, sequela
+73552 T24329  0 Burn of third degree of unspecified knee                     Burn of third degree of unspecified knee
+73553 T24329A 1 Burn of third degree of unspecified knee, initial encounter  Burn of third degree of unspecified knee, initial encounter
+73554 T24329D 1 Burn of third degree of unspecified knee, subs encntr        Burn of third degree of unspecified knee, subsequent encounter
+73555 T24329S 1 Burn of third degree of unspecified knee, sequela            Burn of third degree of unspecified knee, sequela
+73556 T2433   0 Burn of third degree of lower leg                            Burn of third degree of lower leg
+73557 T24331  0 Burn of third degree of right lower leg                      Burn of third degree of right lower leg
+73558 T24331A 1 Burn of third degree of right lower leg, initial encounter   Burn of third degree of right lower leg, initial encounter
+73559 T24331D 1 Burn of third degree of right lower leg, subs encntr         Burn of third degree of right lower leg, subsequent encounter
+73560 T24331S 1 Burn of third degree of right lower leg, sequela             Burn of third degree of right lower leg, sequela
+73561 T24332  0 Burn of third degree of left lower leg                       Burn of third degree of left lower leg
+73562 T24332A 1 Burn of third degree of left lower leg, initial encounter    Burn of third degree of left lower leg, initial encounter
+73563 T24332D 1 Burn of third degree of left lower leg, subsequent encounter Burn of third degree of left lower leg, subsequent encounter
+73564 T24332S 1 Burn of third degree of left lower leg, sequela              Burn of third degree of left lower leg, sequela
+73565 T24339  0 Burn of third degree of unspecified lower leg                Burn of third degree of unspecified lower leg
+73566 T24339A 1 Burn of third degree of unspecified lower leg, init encntr   Burn of third degree of unspecified lower leg, initial encounter
+73567 T24339D 1 Burn of third degree of unspecified lower leg, subs encntr   Burn of third degree of unspecified lower leg, subsequent encounter
+73568 T24339S 1 Burn of third degree of unspecified lower leg, sequela       Burn of third degree of unspecified lower leg, sequela
+73569 T2439   0 Burn of 3rd deg mu sites of lower limb, except ank/ft        Burn of third degree of multiple sites of lower limb, except ankle and foot
+73570 T24391  0 Burn of 3rd deg mu sites of right lower limb, except ank/ft  Burn of third degree of multiple sites of right lower limb, except ankle and foot
+73571 T24391A 1 Burn 3rd deg mu sites of right lower limb, ex ank/ft, init   Burn of third degree of multiple sites of right lower limb, except ankle and foot, initial encounter
+73572 T24391D 1 Burn 3rd deg mu sites of right lower limb, ex ank/ft, subs   Burn of third degree of multiple sites of right lower limb, except ankle and foot, subsequent encounter
+73573 T24391S 1 Burn 3rd deg mu sites of right lower limb, ex ank/ft, sqla   Burn of third degree of multiple sites of right lower limb, except ankle and foot, sequela
+73574 T24392  0 Burn of 3rd deg mu sites of left lower limb, except ank/ft   Burn of third degree of multiple sites of left lower limb, except ankle and foot
+73575 T24392A 1 Burn 3rd deg mu sites of left lower limb, ex ank/ft, init    Burn of third degree of multiple sites of left lower limb, except ankle and foot, initial encounter
+73576 T24392D 1 Burn 3rd deg mu sites of left lower limb, ex ank/ft, subs    Burn of third degree of multiple sites of left lower limb, except ankle and foot, subsequent encounter
+73577 T24392S 1 Burn 3rd deg mu sites of left lower limb, ex ank/ft, sqla    Burn of third degree of multiple sites of left lower limb, except ankle and foot, sequela
+73578 T24399  0 Burn of 3rd deg mu sites of unsp lower limb, except ank/ft   Burn of third degree of multiple sites of unspecified lower limb, except ankle and foot
+73579 T24399A 1 Burn 3rd deg mu sites of unsp lower limb, ex ank/ft, init    Burn of third degree of multiple sites of unspecified lower limb, except ankle and foot, initial encounter
+73580 T24399D 1 Burn 3rd deg mu sites of unsp lower limb, ex ank/ft, subs    Burn of third degree of multiple sites of unspecified lower limb, except ankle and foot, subsequent encounter
+73581 T24399S 1 Burn 3rd deg mu sites of unsp lower limb, ex ank/ft, sqla    Burn of third degree of multiple sites of unspecified lower limb, except ankle and foot, sequela
+73582 T244    0 Corrosion of unsp degree of lower limb, except ank/ft        Corrosion of unspecified degree of lower limb, except ankle and foot
+73583 T2440   0 Corros unsp degree of unsp site lower limb, except ank/ft    Corrosion of unspecified degree of unspecified site of lower limb, except ankle and foot
+73584 T24401  0 Corros unsp deg of unsp site right lower limb, except ank/ft Corrosion of unspecified degree of unspecified site of right lower limb, except ankle and foot
+73585 T24401A 1 Corros unsp deg of unsp site right low limb, ex ank/ft, init Corrosion of unspecified degree of unspecified site of right lower limb, except ankle and foot, initial encounter
+73586 T24401D 1 Corros unsp deg of unsp site right low limb, ex ank/ft, subs Corrosion of unspecified degree of unspecified site of right lower limb, except ankle and foot, subsequent encounter
+73587 T24401S 1 Corros unsp deg of unsp site right low limb, ex ank/ft, sqla Corrosion of unspecified degree of unspecified site of right lower limb, except ankle and foot, sequela
+73588 T24402  0 Corros unsp deg of unsp site left lower limb, except ank/ft  Corrosion of unspecified degree of unspecified site of left lower limb, except ankle and foot
+73589 T24402A 1 Corros unsp deg of unsp site left low limb, ex ank/ft, init  Corrosion of unspecified degree of unspecified site of left lower limb, except ankle and foot, initial encounter
+73590 T24402D 1 Corros unsp deg of unsp site left low limb, ex ank/ft, subs  Corrosion of unspecified degree of unspecified site of left lower limb, except ankle and foot, subsequent encounter
+73591 T24402S 1 Corros unsp deg of unsp site left low limb, ex ank/ft, sqla  Corrosion of unspecified degree of unspecified site of left lower limb, except ankle and foot, sequela
+73592 T24409  0 Corros unsp deg of unsp site unsp lower limb, except ank/ft  Corrosion of unspecified degree of unspecified site of unspecified lower limb, except ankle and foot
+73593 T24409A 1 Corros unsp deg of unsp site unsp low limb, ex ank/ft, init  Corrosion of unspecified degree of unspecified site of unspecified lower limb, except ankle and foot, initial encounter
+73594 T24409D 1 Corros unsp deg of unsp site unsp low limb, ex ank/ft, subs  Corrosion of unspecified degree of unspecified site of unspecified lower limb, except ankle and foot, subsequent encounter
+73595 T24409S 1 Corros unsp deg of unsp site unsp low limb, ex ank/ft, sqla  Corrosion of unspecified degree of unspecified site of unspecified lower limb, except ankle and foot, sequela
+73596 T2441   0 Corrosion of unspecified degree of thigh                     Corrosion of unspecified degree of thigh
+73597 T24411  0 Corrosion of unspecified degree of right thigh               Corrosion of unspecified degree of right thigh
+73598 T24411A 1 Corrosion of unspecified degree of right thigh, init encntr  Corrosion of unspecified degree of right thigh, initial encounter
+73599 T24411D 1 Corrosion of unspecified degree of right thigh, subs encntr  Corrosion of unspecified degree of right thigh, subsequent encounter
+73600 T24411S 1 Corrosion of unspecified degree of right thigh, sequela      Corrosion of unspecified degree of right thigh, sequela
+73601 T24412  0 Corrosion of unspecified degree of left thigh                Corrosion of unspecified degree of left thigh
+73602 T24412A 1 Corrosion of unspecified degree of left thigh, init encntr   Corrosion of unspecified degree of left thigh, initial encounter
+73603 T24412D 1 Corrosion of unspecified degree of left thigh, subs encntr   Corrosion of unspecified degree of left thigh, subsequent encounter
+73604 T24412S 1 Corrosion of unspecified degree of left thigh, sequela       Corrosion of unspecified degree of left thigh, sequela
+73605 T24419  0 Corrosion of unspecified degree of unspecified thigh         Corrosion of unspecified degree of unspecified thigh
+73606 T24419A 1 Corrosion of unsp degree of unspecified thigh, init encntr   Corrosion of unspecified degree of unspecified thigh, initial encounter
+73607 T24419D 1 Corrosion of unsp degree of unspecified thigh, subs encntr   Corrosion of unspecified degree of unspecified thigh, subsequent encounter
+73608 T24419S 1 Corrosion of unsp degree of unspecified thigh, sequela       Corrosion of unspecified degree of unspecified thigh, sequela
+73609 T2442   0 Corrosion of unspecified degree of knee                      Corrosion of unspecified degree of knee
+73610 T24421  0 Corrosion of unspecified degree of right knee                Corrosion of unspecified degree of right knee
+73611 T24421A 1 Corrosion of unspecified degree of right knee, init encntr   Corrosion of unspecified degree of right knee, initial encounter
+73612 T24421D 1 Corrosion of unspecified degree of right knee, subs encntr   Corrosion of unspecified degree of right knee, subsequent encounter
+73613 T24421S 1 Corrosion of unspecified degree of right knee, sequela       Corrosion of unspecified degree of right knee, sequela
+73614 T24422  0 Corrosion of unspecified degree of left knee                 Corrosion of unspecified degree of left knee
+73615 T24422A 1 Corrosion of unspecified degree of left knee, init encntr    Corrosion of unspecified degree of left knee, initial encounter
+73616 T24422D 1 Corrosion of unspecified degree of left knee, subs encntr    Corrosion of unspecified degree of left knee, subsequent encounter
+73617 T24422S 1 Corrosion of unspecified degree of left knee, sequela        Corrosion of unspecified degree of left knee, sequela
+73618 T24429  0 Corrosion of unspecified degree of unspecified knee          Corrosion of unspecified degree of unspecified knee
+73619 T24429A 1 Corrosion of unsp degree of unspecified knee, init encntr    Corrosion of unspecified degree of unspecified knee, initial encounter
+73620 T24429D 1 Corrosion of unsp degree of unspecified knee, subs encntr    Corrosion of unspecified degree of unspecified knee, subsequent encounter
+73621 T24429S 1 Corrosion of unspecified degree of unspecified knee, sequela Corrosion of unspecified degree of unspecified knee, sequela
+73622 T2443   0 Corrosion of unspecified degree of lower leg                 Corrosion of unspecified degree of lower leg
+73623 T24431  0 Corrosion of unspecified degree of right lower leg           Corrosion of unspecified degree of right lower leg
+73624 T24431A 1 Corrosion of unsp degree of right lower leg, init encntr     Corrosion of unspecified degree of right lower leg, initial encounter
+73625 T24431D 1 Corrosion of unsp degree of right lower leg, subs encntr     Corrosion of unspecified degree of right lower leg, subsequent encounter
+73626 T24431S 1 Corrosion of unspecified degree of right lower leg, sequela  Corrosion of unspecified degree of right lower leg, sequela
+73627 T24432  0 Corrosion of unspecified degree of left lower leg            Corrosion of unspecified degree of left lower leg
+73628 T24432A 1 Corrosion of unsp degree of left lower leg, init encntr      Corrosion of unspecified degree of left lower leg, initial encounter
+73629 T24432D 1 Corrosion of unsp degree of left lower leg, subs encntr      Corrosion of unspecified degree of left lower leg, subsequent encounter
+73630 T24432S 1 Corrosion of unspecified degree of left lower leg, sequela   Corrosion of unspecified degree of left lower leg, sequela
+73631 T24439  0 Corrosion of unspecified degree of unspecified lower leg     Corrosion of unspecified degree of unspecified lower leg
+73632 T24439A 1 Corrosion of unsp degree of unsp lower leg, init encntr      Corrosion of unspecified degree of unspecified lower leg, initial encounter
+73633 T24439D 1 Corrosion of unsp degree of unsp lower leg, subs encntr      Corrosion of unspecified degree of unspecified lower leg, subsequent encounter
+73634 T24439S 1 Corrosion of unsp degree of unspecified lower leg, sequela   Corrosion of unspecified degree of unspecified lower leg, sequela
+73635 T2449   0 Corros unsp deg mult sites of lower limb, except ank/ft      Corrosion of unspecified degree of multiple sites of lower limb, except ankle and foot
+73636 T24491  0 Corros unsp deg mult sites of right lower limb, ex ank/ft    Corrosion of unspecified degree of multiple sites of right lower limb, except ankle and foot
+73637 T24491A 1 Corros unsp deg mult sites of r low limb, ex ank/ft, init    Corrosion of unspecified degree of multiple sites of right lower limb, except ankle and foot, initial encounter
+73638 T24491D 1 Corros unsp deg mult sites of r low limb, ex ank/ft, subs    Corrosion of unspecified degree of multiple sites of right lower limb, except ankle and foot, subsequent encounter
+73639 T24491S 1 Corros unsp deg mult sites of r low limb, ex ank/ft, sqla    Corrosion of unspecified degree of multiple sites of right lower limb, except ankle and foot, sequela
+73640 T24492  0 Corros unsp deg mult sites of left lower limb, except ank/ft Corrosion of unspecified degree of multiple sites of left lower limb, except ankle and foot
+73641 T24492A 1 Corros unsp deg mult sites of left low limb, ex ank/ft, init Corrosion of unspecified degree of multiple sites of left lower limb, except ankle and foot, initial encounter
+73642 T24492D 1 Corros unsp deg mult sites of left low limb, ex ank/ft, subs Corrosion of unspecified degree of multiple sites of left lower limb, except ankle and foot, subsequent encounter
+73643 T24492S 1 Corros unsp deg mult sites of left low limb, ex ank/ft, sqla Corrosion of unspecified degree of multiple sites of left lower limb, except ankle and foot, sequela
+73644 T24499  0 Corros unsp deg mult sites of unsp lower limb, except ank/ft Corrosion of unspecified degree of multiple sites of unspecified lower limb, except ankle and foot
+73645 T24499A 1 Corros unsp deg mult sites of unsp low limb, ex ank/ft, init Corrosion of unspecified degree of multiple sites of unspecified lower limb, except ankle and foot, initial encounter
+73646 T24499D 1 Corros unsp deg mult sites of unsp low limb, ex ank/ft, subs Corrosion of unspecified degree of multiple sites of unspecified lower limb, except ankle and foot, subsequent encounter
+73647 T24499S 1 Corros unsp deg mult sites of unsp low limb, ex ank/ft, sqla Corrosion of unspecified degree of multiple sites of unspecified lower limb, except ankle and foot, sequela
+73648 T245    0 Corrosion of first degree of lower limb, except ank/ft       Corrosion of first degree of lower limb, except ankle and foot
+73649 T2450   0 Corros first degree of unsp site lower limb, except ank/ft   Corrosion of first degree of unspecified site of lower limb, except ankle and foot
+73650 T24501  0 Corros first deg of unsp site right lower limb, ex ank/ft    Corrosion of first degree of unspecified site of right lower limb, except ankle and foot
+73651 T24501A 1 Corros 1st deg of unsp site right low limb, ex ank/ft, init  Corrosion of first degree of unspecified site of right lower limb, except ankle and foot, initial encounter
+73652 T24501D 1 Corros 1st deg of unsp site right low limb, ex ank/ft, subs  Corrosion of first degree of unspecified site of right lower limb, except ankle and foot, subsequent encounter
+73653 T24501S 1 Corros 1st deg of unsp site right low limb, ex ank/ft, sqla  Corrosion of first degree of unspecified site of right lower limb, except ankle and foot, sequela
+73654 T24502  0 Corros first deg of unsp site left lower limb, except ank/ft Corrosion of first degree of unspecified site of left lower limb, except ankle and foot
+73655 T24502A 1 Corros 1st deg of unsp site left lower limb, ex ank/ft, init Corrosion of first degree of unspecified site of left lower limb, except ankle and foot, initial encounter
+73656 T24502D 1 Corros 1st deg of unsp site left lower limb, ex ank/ft, subs Corrosion of first degree of unspecified site of left lower limb, except ankle and foot, subsequent encounter
+73657 T24502S 1 Corros 1st deg of unsp site left lower limb, ex ank/ft, sqla Corrosion of first degree of unspecified site of left lower limb, except ankle and foot, sequela
+73658 T24509  0 Corros first deg of unsp site unsp lower limb, except ank/ft Corrosion of first degree of unspecified site of unspecified lower limb, except ankle and foot
+73659 T24509A 1 Corros 1st deg of unsp site unsp lower limb, ex ank/ft, init Corrosion of first degree of unspecified site of unspecified lower limb, except ankle and foot, initial encounter
+73660 T24509D 1 Corros 1st deg of unsp site unsp lower limb, ex ank/ft, subs Corrosion of first degree of unspecified site of unspecified lower limb, except ankle and foot, subsequent encounter
+73661 T24509S 1 Corros 1st deg of unsp site unsp lower limb, ex ank/ft, sqla Corrosion of first degree of unspecified site of unspecified lower limb, except ankle and foot, sequela
+73662 T2451   0 Corrosion of first degree of thigh                           Corrosion of first degree of thigh
+73663 T24511  0 Corrosion of first degree of right thigh                     Corrosion of first degree of right thigh
+73664 T24511A 1 Corrosion of first degree of right thigh, initial encounter  Corrosion of first degree of right thigh, initial encounter
+73665 T24511D 1 Corrosion of first degree of right thigh, subs encntr        Corrosion of first degree of right thigh, subsequent encounter
+73666 T24511S 1 Corrosion of first degree of right thigh, sequela            Corrosion of first degree of right thigh, sequela
+73667 T24512  0 Corrosion of first degree of left thigh                      Corrosion of first degree of left thigh
+73668 T24512A 1 Corrosion of first degree of left thigh, initial encounter   Corrosion of first degree of left thigh, initial encounter
+73669 T24512D 1 Corrosion of first degree of left thigh, subs encntr         Corrosion of first degree of left thigh, subsequent encounter
+73670 T24512S 1 Corrosion of first degree of left thigh, sequela             Corrosion of first degree of left thigh, sequela
+73671 T24519  0 Corrosion of first degree of unspecified thigh               Corrosion of first degree of unspecified thigh
+73672 T24519A 1 Corrosion of first degree of unspecified thigh, init encntr  Corrosion of first degree of unspecified thigh, initial encounter
+73673 T24519D 1 Corrosion of first degree of unspecified thigh, subs encntr  Corrosion of first degree of unspecified thigh, subsequent encounter
+73674 T24519S 1 Corrosion of first degree of unspecified thigh, sequela      Corrosion of first degree of unspecified thigh, sequela
+73675 T2452   0 Corrosion of first degree of knee                            Corrosion of first degree of knee
+73676 T24521  0 Corrosion of first degree of right knee                      Corrosion of first degree of right knee
+73677 T24521A 1 Corrosion of first degree of right knee, initial encounter   Corrosion of first degree of right knee, initial encounter
+73678 T24521D 1 Corrosion of first degree of right knee, subs encntr         Corrosion of first degree of right knee, subsequent encounter
+73679 T24521S 1 Corrosion of first degree of right knee, sequela             Corrosion of first degree of right knee, sequela
+73680 T24522  0 Corrosion of first degree of left knee                       Corrosion of first degree of left knee
+73681 T24522A 1 Corrosion of first degree of left knee, initial encounter    Corrosion of first degree of left knee, initial encounter
+73682 T24522D 1 Corrosion of first degree of left knee, subsequent encounter Corrosion of first degree of left knee, subsequent encounter
+73683 T24522S 1 Corrosion of first degree of left knee, sequela              Corrosion of first degree of left knee, sequela
+73684 T24529  0 Corrosion of first degree of unspecified knee                Corrosion of first degree of unspecified knee
+73685 T24529A 1 Corrosion of first degree of unspecified knee, init encntr   Corrosion of first degree of unspecified knee, initial encounter
+73686 T24529D 1 Corrosion of first degree of unspecified knee, subs encntr   Corrosion of first degree of unspecified knee, subsequent encounter
+73687 T24529S 1 Corrosion of first degree of unspecified knee, sequela       Corrosion of first degree of unspecified knee, sequela
