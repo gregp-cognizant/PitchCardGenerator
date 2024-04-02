@@ -1,0 +1,82 @@
+# /app/docker-compose.yml
+version: '3.8'
+
+services:
+  fastapi:
+    depends_on:
+      - qdrant
+    build:
+      context: .
+      dockerfile: ./backend/Dockerfile
+    image: agent_framework_server_image
+    container_name: AGENT_FRAMEWORK_FASTAPI
+    ports:
+      - "8000:8000"
+    environment:
+      - LOG_LEVEL=debug
+    env_file:
+      - key.env
+    volumes:
+      - ./:/app
+
+  # https://react.dev/
+  react:
+    build: ./frontend
+    image: agent_framework_ui_image_react
+    container_name: AGENT_FRAMEWORK_REACT
+    ports:
+      - "3000:3000"
+    volumes:
+    - ./frontend/public:/app/public
+    - ./frontend/src:/app/src
+    - ./frontend/test:/app/test
+    - ./frontend/package.json:/app/package.json
+    - ./frontend/package-lock.json:/app/package-lock.json
+    - ./frontend/babel.config.js:/app/babel.config.js
+    - ./frontend/jest.config.js:/app/jest.config.js
+
+  # https://github.com/qdrant/qdrant
+  qdrant:
+    image: qdrant/qdrant:v1.7.4
+    container_name: AGENT_FRAMEWORK_QDRANT
+    volumes:
+      - qdrant_data:/qdrant/storage
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:6333/"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  jupyter:
+    build:
+      context: .
+      dockerfile: ./jupyter/Dockerfile
+    image: agent_framework_jupyter_image
+    container_name: AGENT_FRAMEWORK_JUPYTER
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./jupyter/src:/home/jovyan
+      - ./:/app
+    env_file:
+      - key.env
+
+  # Arize Phoenix for Tracing, Evaluations, and more: https://hub.docker.com/r/arizephoenix/phoenix
+  phoenix:
+    image: arizephoenix/phoenix:version-2.10.0
+    container_name: AGENT_FRAMEWORK_PHOENIX
+    ports:
+     - "6006:6006"
+    environment:
+      - LOG_LEVEL=warning
+
+volumes:
+  qdrant_data:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ./.data/qdrant/
